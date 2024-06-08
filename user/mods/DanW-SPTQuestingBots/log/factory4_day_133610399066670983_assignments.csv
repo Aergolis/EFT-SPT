@@ -1,0 +1,7 @@
+Bot Name,Bot Nickname,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"Jeramy Gosser",44,Failed,"1st Floor Office","1st Floor Office: Objective #1","3","17:56:16","17:57:49",
+Bot2,"Andrew Tatham",12,Active,"Delivery From the Past","Zone case_extraction","1","17:56:16","N/A",
+Bot5,"Елисей Богомолов",45,Failed,"1st Floor Office","1st Floor Office: Objective #2","1","17:56:16","17:56:46",
+Bot4,"Jan Wayne",47,Pending,"Weapon Crate Outside of Forklift","Weapon Crate Outside of Forklift: Objective #1","1","17:56:16","N/A",
+Bot3,"Jermaine Maurin",54,Failed,"Crates Outside of Gate 3","Crates Outside of Gate 3: Objective #1","1","17:56:16","17:57:14",
+Bot7,"Newton Bethune",41,Active,"Crates Near Lower Platform","Crates Near Lower Platform: Objective #1","2","17:56:20","N/A",

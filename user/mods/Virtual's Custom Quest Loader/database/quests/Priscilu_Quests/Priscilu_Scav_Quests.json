@@ -1,0 +1,292 @@
+{
+  "Priscilu_QUEST_6": {
+	"QuestName": "Pistol Master",
+	"_id": "Priscilu_QUEST_6",
+	"canShowNotificationsInGame": true,
+	"changeQuestMessageText": "Priscilu_QUEST_6 changeQuestMessageText",
+	"conditions": {
+	  "AvailableForFinish": [
+		{
+		  "_parent": "CounterCreator",
+		  "_props": {
+			"counter": {
+			  "id": "Priscilu_QUEST_6_TASK1_0",
+			  "conditions": [
+				{
+				  "_parent": "Kills",
+				  "_props": {
+					"target": "Savage",
+					"compareMethod": ">=",
+					"value": "1",
+					"weapon": [
+					  "6193a720f8ee7e52e42109ed"
+					],
+					"id": "Priscilu_QUEST_6_TASK1_1"
+				  }
+				},
+				{
+				  "_parent": "Location",
+				  "_props": {
+					"target": [
+					  "Interchange"
+					],
+					"id": "Priscilu_QUEST_6_TASK1_2"
+				  }
+				}
+			  ]
+			},
+			"id": "Priscilu_QUEST_6_TASK1",
+			"index": 0,
+			"parentId": "",
+			"oneSessionOnly": false,
+			"dynamicLocale": false,
+			"type": "Elimination",
+			"doNotResetIfCounterCompleted": false,
+			"value": "20",
+			"visibilityConditions": []
+		  },
+		  "dynamicLocale": false
+		}
+	  ],
+      "AvailableForStart": [
+        {
+			"_parent": "Level",
+			"_props": {
+			  "id": "Priscilu_QUEST_6_TASK1",
+			  "index": 0,
+			  "parentId": "",
+			  "dynamicLocale": false,
+			  "value": 5,
+			  "compareMethod": ">=",
+			  "visibilityConditions": []
+			}
+		  } 
+      ],
+      "Fail": []
+    },
+	"description": "Priscilu_QUEST_6 description",
+	"failMessageText": "Priscilu_QUEST_6 failMessageText",
+	"name": "Priscilu_QUEST_6 name",
+	"note": "Priscilu_QUEST_6 note",
+	"traderId": "Priscilu",
+	"location": "5714dbc024597771384a510d",
+	"image": "/files/quest/icon/5ae4a76086f774455f7d62d2.jpg",
+	"type": "Elimination",
+	"isKey": false,
+	"restartable": false,
+	"instantComplete": false,
+	"secretQuest": false,
+	"startedMessageText": "Priscilu_QUEST_6 description",
+	"successMessageText": "Priscilu_QUEST_6 successMessageText",
+	"templateId": "Priscilu_QUEST_6",
+	"rewards": {
+	  "Started": [],
+	  "Success": [
+		{
+		  "value": "12000",
+		  "id": "Priscilu_QUEST_6_Reward0",
+		  "type": "Experience",
+		  "index": 0
+		},
+		{
+		  "value": "0.05",
+		  "id": "Priscilu_QUEST_6_Reward1",
+		  "type": "TraderStanding",
+		  "target": "Priscilu",
+		  "index": 1
+		},
+		{
+		  "value": "100000",
+		  "id": "Priscilu_QUEST_6_Reward2",
+		  "type": "Item",
+		  "target": "Priscilu_QUEST_6_ItemReward0",
+		  "index": 2,
+		  "findInRaid": true,
+		  "items": [
+			{
+			  "_id": "Priscilu_QUEST_6_ItemReward0",
+			  "_tpl": "5449016a4bdc2d6f028b456f",
+			  "upd": {
+				"StackObjectsCount": 100000
+			  }
+			}
+		  ]
+		},
+		{
+		  "value": "3",
+		  "id": "Priscilu_QUEST_6_Reward3",
+		  "type": "Item",
+		  "target": "Priscilu_QUEST_6_ItemReward1",
+		  "index": 3,
+		  "findInRaid": true,
+		  "items": [
+			{
+			  "_id": "Priscilu_QUEST_6_ItemReward1",
+			  "_tpl": "5f745ee30acaeb0d490d8c5b",
+			  "upd": {
+				"StackObjectsCount": 3
+			  }
+			}
+		  ]
+		}
+	  ],
+	  "Fail": []
+	},
+	  "secretQuest": false,
+	  "side": "Pmc",
+	  "startedMessageText": "Priscilu_QUEST_6 description",
+	  "successMessageText": "Priscilu_QUEST_6 successMessageText",
+	  "templateId": "Priscilu_QUEST_6",
+	  "traderId": "Priscilu",
+	  "type": "Completion"
+
+    },
+      "Priscilu_WELCOME": {
+		"QuestName": "Scav Scav",
+		"_id": "Priscilu_WELCOME",
+		"canShowNotificationsInGame": true,
+		"acceptPlayerMessage": "Priscilu_WELCOME acceptPlayerMessage",
+		"changeQuestMessageText": "Priscilu_WELCOME changeQuestMessageText",
+		"completePlayerMessage": "Priscilu_WELCOME completePlayerMessage",
+		"conditions": {
+		  "AvailableForFinish": [
+			{
+			  "_parent": "CounterCreator",
+			  "_props": {
+				"counter": {
+				  "id": "Priscilu_WELCOME TASK0",
+				  "conditions": [
+					{
+					  "_parent": "Kills",
+					  "_props": {
+						"target": "Savage",
+						"compareMethod": ">=",
+						"value": "1",
+						"id": "Priscilu_WELCOME TASK1"
+					  }
+					}
+				  ]
+				},
+				"id": "Priscilu_WELCOME TASK1",
+				"index": 0,
+				"parentId": "",
+				"oneSessionOnly": false,
+				"dynamicLocale": false,
+				"type": "Elimination",
+				"doNotResetIfCounterCompleted": false,
+				"value": "10",
+				"visibilityConditions": []
+			  },
+			  "dynamicLocale": false
+			},
+			{
+			  "_parent": "FindItem",
+			  "_props": {
+				"dogtagLevel": 0,
+				"id": "Priscilu_WELCOME TASK2",
+				"index": 3,
+				"maxDurability": 100,
+				"minDurability": 0,
+				"parentId": "",
+				"isEncoded": false,
+				"onlyFoundInRaid": false,
+				"dynamicLocale": false,
+				"target": [
+				  "5751a25924597722c463c472"
+				],
+				"value": "10",
+				"visibilityConditions": []
+			  },
+			  "dynamicLocale": false
+			}
+		  ],
+		  "AvailableForStart": [
+			{
+			  "_parent": "Level",
+			  "_props": {
+				"id": "Priscilu_WELCOME_REQUIREDQUEST",
+				"index": 0,
+				"parentId": "",
+				"dynamicLocale": false,
+				"value": 1,
+				"compareMethod": ">=",
+				"visibilityConditions": []
+			  },
+			  "dynamicLocale": false
+			}
+		  ],
+		  "Fail": []
+		},
+		"description": "Priscilu_WELCOME description",
+		"failMessageText": "Priscilu_WELCOME failMessageText",
+		"name": "Priscilu_WELCOME name",
+		"note": "Priscilu_WELCOME note",
+		"questStatus": {},
+		"traderId": "Priscilu",
+		"location": "any",
+		"image": "/files/quest/icon/Priscilu_Welcome.jpg",
+		"type": "Elimination",
+		"isKey": false,
+		"restartable": false,
+		"instantComplete": false,
+		"secretQuest": false,
+		"startedMessageText": "Priscilu_WELCOME startedMessageText",
+		"successMessageText": "Priscilu_WELCOME successMessageText",
+		"templateId": "Priscilu_WELCOME",
+		"rewards": {
+		  "Started": [],
+		  "Success": [
+			{
+			  "value": "4500",
+			  "id": "5fe305df8a67d12f5f24c8aa",
+			  "type": "Experience",
+			  "index": 0
+			},
+			{
+			  "value": "100000",
+			  "id": "5fe305d9c646836c3b6fc562",
+			  "type": "Item",
+			  "index": 1,
+			  "target": "6492e44bf4287b13040fca56",
+			  "findInRaid": true,
+			  "items": [
+				{
+				  "_id": "6492e44bf4287b13040fca56",
+				  "_tpl": "5449016a4bdc2d6f028b456f",
+				  "upd": {
+					"StackObjectsCount": 100000
+				  }
+				}
+			  ]
+			},
+			{
+			  "value": "3",
+			  "id": "60098ad7c2240c0fe85c570a",
+			  "type": "Item",
+			  "index": 1,
+			  "target": "6492e44bf4287b13040fca56",
+			  "findInRaid": true,
+			  "items": [
+				{
+				  "_id": "6492e44bf4287b13040fca56",
+				  "_tpl": "60098ad7c2240c0fe85c570a",
+				  "upd": {
+					"StackObjectsCount": 3
+				  }
+				}
+			  ]
+			},
+			{
+			  "value": "0.25",
+			  "id": "60c89c0c80b2027f403dd992",
+			  "type": "TraderStanding",
+			  "index": 5,
+			  "target": "Priscilu"
+			}
+		  ],
+		  "Fail": []
+		},
+		"side": "Pmc"
+		}
+
+	  }

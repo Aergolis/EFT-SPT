@@ -1,0 +1,13 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot2,"Dusty Sealey",normal,10,Failed,"First in Line","Zone Sandbox_1_MedicalArea_exploration","1","05:22:35","05:35:19",
+Bot3,"Andrew Macri",normal,2,Failed,"First in Line","Zone Sandbox_1_MedicalArea_exploration","1","05:22:35","05:36:24",
+Bot1,"Wilmer Rachel",normal,7,Failed,"TerraGroup Garage","TerraGroup Garage: Objective #1","1","05:22:35","05:26:51",
+Bot4,"Dwayne Lumpkins",normal,2,Failed,"TerraGroup Office Upstairs Sniping","TerraGroup Office Upstairs Sniping: Objective #2","1","05:22:35","05:24:51",
+Bot8,"Sam Burgher",normal,9,Failed,"Kyshperski","Kyshperski: Objective #1","1","05:22:48","05:23:29",
+Bot9,"Christian East",normal,3,Completed,"Shooting Cans","Zone Sandbox_2_AGS_exploration","1","05:22:49","05:26:59",
+Bot9,"Christian East",normal,3,Failed,"Shooting Cans","Zone Sandbox_2_Kord_exploration","1","05:27:04","05:28:06",
+Bot10,"Elias Shover",normal,5,Completed,"Stairs Near Tartowers","Stairs Near Tartowers: Objective #1","2","05:22:57","05:28:47",
+Bot10,"Elias Shover",normal,5,Completed,"Stairs Near Tartowers","Stairs Near Tartowers: Objective #3","1","05:28:52","05:28:55",
+Bot10,"Elias Shover",normal,5,Completed,"Stairs Near Tartowers","Stairs Near Tartowers: Objective #2","2","05:29:00","05:29:25",
+Bot10,"Elias Shover",normal,5,Failed,"Luxurious Life","Item Bottle of Le Jean wine","1","05:29:30","05:34:17",
+Bot11,"Christoper Weyer",normal,7,Failed,"Saving the Mole","Item TerraGroup scientist's hard drive","1","05:22:58","05:33:58",

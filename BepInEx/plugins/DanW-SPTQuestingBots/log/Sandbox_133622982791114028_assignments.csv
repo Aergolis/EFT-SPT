@@ -1,0 +1,10 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"Jesse Knisley",normal,4,Completed,"Saving the Mole","Zone Sandbox_5_DeadGroup_exploration","1","07:22:24","07:22:44",
+Bot1,"Jesse Knisley",normal,4,Failed,"Saving the Mole","Zone Sandbox_5_Laborant_exploration","1","07:22:49","07:28:27",
+Bot1,"Jesse Knisley",normal,4,Completed,"TerraGroup Office Upstairs","TerraGroup Office Upstairs: Objective #1","1","07:28:32","07:28:55",
+Bot1,"Jesse Knisley",normal,4,Pending,"TerraGroup Office Upstairs","TerraGroup Office Upstairs: Objective #2","1","07:29:00","N/A",
+Bot4,"Нестор Савенков",normal,13,Failed,"First in Line","Zone Sandbox_1_MedicalArea_exploration","1","07:22:24","07:22:48",
+Bot3,"Артём Пузаков",normal,2,Failed,"Luxurious Life","Item Bottle of Le Jean wine","1","07:22:25","07:22:56",
+Bot2,"Остап Ельцин",normal,12,Failed,"First in Line","Zone Sandbox_1_MedicalArea_exploration","1","07:22:26","07:23:19",
+Bot10,"Wilmer Schlueter",normal,7,Active,"M Showroom Sniping","M Showroom Sniping: Objective #1","1","07:22:34","N/A",
+Bot6,"Derrick Hemingway",normal,10,Failed,"Capital Insight Sniping","Capital Insight Sniping: Objective #2","1","07:28:35","07:28:40",

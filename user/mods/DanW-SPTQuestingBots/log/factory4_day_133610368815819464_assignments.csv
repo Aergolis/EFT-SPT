@@ -1,0 +1,8 @@
+Bot Name,Bot Nickname,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"Luigi Josephs",15,Failed,"3rd Floor Office Rush","3rd Floor Office Rush: Objective #1","1","17:03:57","17:06:30",
+Bot4,"Norbert Nassar",38,Pending,"Crates Outside of Stairwell","Crates Outside of Stairwell: Objective #1","1","17:03:57","N/A",
+Bot5,"Levi Toscano",43,Failed,"3rd Floor Office","3rd Floor Office: Objective #1","1","17:03:57","17:04:33",
+Bot3,"Ezra Dixion",37,Completed,"Crates Outside of Gate 3","Crates Outside of Gate 3: Objective #1","1","17:03:57","17:04:03",
+Bot3,"Ezra Dixion",37,Failed,"3rd Floor Office","3rd Floor Office: Objective #1","1","17:04:08","17:07:35",
+Bot2,"Евдоким Клепин",36,Failed,"3rd Floor Bridge","3rd Floor Bridge: Objective #1","1","17:03:57","17:04:10",
+Bot6,"Ryan Kettle",27,Failed,"Chemical - Part 3","Item Syringe with a chemical","1","17:03:57","17:05:22",

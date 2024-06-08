@@ -1,0 +1,8 @@
+Bot Name,Bot Nickname,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"Lawerence Feingold",33,Failed,"Break Room","Break Room: Objective #1","1","20:49:56","20:50:08",
+Bot3,"Денис Фирсов",45,Completed,"NE Crates in Workshop","NE Crates in Workshop: Objective #1","1","20:49:56","20:50:07",
+Bot3,"Денис Фирсов",45,Completed,"Basement Crates","Basement Crates: Objective #2","1","20:50:12","20:50:50",
+Bot3,"Денис Фирсов",45,Pending,"Basement Crates","Basement Crates: Objective #1","1","20:50:55","N/A",
+Bot2,"Blair Chitty",51,Completed,"3rd Floor Office","3rd Floor Office: Objective #1","1","20:49:56","20:51:01",
+Bot5,"Louis Mumaw",40,Pending,"Spawn Rush","Spawn Rush: Objective #1","1","20:49:56","N/A",
+Bot5,"Louis Mumaw",40,Active,"1st Floor Office","1st Floor Office: Objective #2","1","20:50:43","N/A",

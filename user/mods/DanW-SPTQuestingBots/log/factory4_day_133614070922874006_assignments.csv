@@ -1,0 +1,11 @@
+Bot Name,Bot Nickname,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"Francisco Bergeson",28,Failed,"Crates Outside of Stairwell","Crates Outside of Stairwell: Objective #1","1","23:40:13","23:41:01",
+Bot2,"Brett Renfrow",28,Failed,"Spawn Rush","Spawn Rush: Objective #1","1","23:40:14","23:41:35",
+Bot3,"Леонтий Улицкий",52,Failed,"1st Floor Office","1st Floor Office: Objective #2","1","23:40:14","23:41:43",
+Bot4,"Василий Кораблёв",45,Failed,"Holding Area Patrol","Holding Area Patrol: Objective #1","1","23:40:14","23:43:29",
+Bot7,"Dario Mccollough",32,Failed,"Spawn Rush","Spawn Rush: Objective #1","1","23:40:16","23:41:07",
+Bot6,"Jake Ankney",43,Failed,"3rd Floor Office","3rd Floor Office: Objective #1","1","23:40:16","23:47:45",
+Bot29,"Витёк Сгущёнка (Kelvin)",1,Failed,"Crates Outside of Scav Bunker","Crates Outside of Scav Bunker: Objective #1","1","23:53:41","23:54:52",
+Bot34,"Шура Предводитель (Moses)",1,Pending,"Crates Outside of Gate 3","Crates Outside of Gate 3: Objective #1","1","23:55:24","N/A",
+Bot36,"Юстин Боржоми (Marty)",1,Pending,"Basement Crates","Basement Crates: Objective #1","1","23:56:51","N/A",
+Bot35,"Шурик Крезибамп (Carmine)",1,Pending,"Basement Crates","Basement Crates: Objective #1","1","23:56:51","N/A",

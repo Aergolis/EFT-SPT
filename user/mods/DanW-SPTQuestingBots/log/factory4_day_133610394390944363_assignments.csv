@@ -1,0 +1,9 @@
+Bot Name,Bot Nickname,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot65,"Kendrick Sandstrom",49,Completed,"Weapon Crate Outside of Forklift","Weapon Crate Outside of Forklift: Objective #1","1","17:47:39","17:48:54",
+Bot65,"Kendrick Sandstrom",49,Failed,"Crates Outside of Stairwell","Crates Outside of Stairwell: Objective #1","1","17:48:59","17:50:13",
+Bot66,"Vito Wallen",44,Pending,"NE Crates in Workshop","NE Crates in Workshop: Objective #1","1","17:47:40","N/A",
+Bot67,"Филат Скоробогатов",27,Failed,"Scout","Zone place_pacemaker_SCOUT_04","1","17:47:40","17:47:55",
+Bot63,"Miquel Avendano",34,Completed,"Engineer's Office","Engineer's Office: Objective #1","1","17:47:40","17:47:40",
+Bot63,"Miquel Avendano",34,Failed,"3rd Floor Office Rush","3rd Floor Office Rush: Objective #1","1","17:47:45","17:48:04",
+Bot64,"Brendon Hollinger",66,Completed,"3rd Floor Bridge","3rd Floor Bridge: Objective #1","2","17:47:40","17:49:11",
+Bot64,"Brendon Hollinger",66,Active,"1st Floor Office","1st Floor Office: Objective #1","1","17:49:16","N/A",

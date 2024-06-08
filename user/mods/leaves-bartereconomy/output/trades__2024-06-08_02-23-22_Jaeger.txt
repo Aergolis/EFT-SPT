@@ -1,0 +1,766 @@
+[Updating Trader:Jaeger]
+-------------------------------------------
+
+	Loyalty:1 value:1 name:MP-153 12ga 710mm barrel
+		Tier:1   		count:1  	item:Duct tape
+
+	Loyalty:1 value:1 name:BelOMO PK-06 reflex sight
+		Tier:1   		count:1  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:4 value:6 name:March Tactical 3-24x42 FFP 30mm riflescope
+		Tier:1   		count:6  	item:Chainlet
+
+	Loyalty:1 value:1 name:Axion Kobra dovetail mount
+		Tier:1   		count:1  	item:DVD drive
+
+	Loyalty:1 value:1 name:MP-133 12ga 660mm barrel with rib
+		Tier:1   		count:1  	item:Wrench
+
+	Loyalty:2 value:2 name:SKS Leapers UTG SOCOM rail mount
+		Tier:1   		count:2  	item:Zibbo lighter
+
+	Loyalty:3 value:3 name:Saiga-12K ver.10 12ga semi-automatic shotgun
+		Tier:2   		count:1  	item:Pack of Tarker dried meat
+		Tier:1   		count:1  	item:Classic matches
+
+	Loyalty:3 value:1 name:VSS/VAL TOZ 6P29M mount
+		Tier:1   		count:1  	item:Medical bloodset
+
+	Loyalty:1 value:1 name:MP-133 12ga 750mm barrel
+		Tier:1   		count:1  	item:Pack of screws
+
+	Loyalty:1 value:1 name:MP-133/153 plastic pistol grip
+		Tier:1   		count:1  	item:Chainlet
+
+	Loyalty:2 value:1 name:VOMZ Pilad 043-02 dovetail mount
+		Tier:1   		count:1  	item:Pack of nails
+
+	Loyalty:1 value:2 name:Axion Kobra EKP-8-18 reflex sight
+		Tier:1   		count:2  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:2 value:1 name:MP-133 12ga 610mm barrel with rib
+		Tier:1   		count:1  	item:Toilet paper
+
+	Loyalty:2 value:4 name:Molot Arms Simonov OP-SKS 7.62x39 carbine
+		Tier:3   		count:1  	item:Propital regenerative stimulant injector
+		Tier:1   		count:1  	item:Aseptic bandage
+
+	Loyalty:1 value:1 name:MP-133 12ga 750mm barrel with rib
+		Tier:1   		count:1  	item:Medical tools
+
+	Loyalty:1 value:1 name:Scav Vest
+		Tier:1   		count:1  	item:F-1 hand grenade
+
+	Loyalty:1 value:1 name:Scav Vest
+		Tier:1   		count:1  	item:Analgin painkillers
+
+	Loyalty:3 value:3 name:MP-153 12ga semi-automatic shotgun
+		Tier:2   		count:1  	item:Can of pacific saury
+		Tier:1   		count:1  	item:Can of white salt
+
+	Loyalty:1 value:1 name:MP-133 12ga 710mm barrel
+		Tier:1   		count:1  	item:WD-40 (100ml)
+
+	Loyalty:1 value:1 name:MP-153 12ga 750mm barrel
+		Tier:1   		count:1  	item:Insulating tape
+
+	Loyalty:2 value:1 name:MP-133 12ga 610mm barrel
+		Tier:1   		count:1  	item:Ortodontox toothpaste
+
+	Loyalty:3 value:1 name:MP-153 12ga 610mm barrel
+		Tier:1   		count:1  	item:Construction measuring tape
+
+	Loyalty:2 value:1 name:MP-153 12ga 660mm barrel
+		Tier:1   		count:1  	item:T-Shaped plug
+
+	Loyalty:2 value:1 name:Kiba Arms SPRM rail mount for pump-action shotguns
+		Tier:1   		count:1  	item:Bottle of water (0.6L)
+
+	Loyalty:1 value:3 name:MP-133 12ga pump-action shotgun
+		Tier:2   		count:1  	item:RGO hand grenade
+		Tier:1   		count:1  	item:Can of green peas
+
+	Loyalty:2 value:1 name:Delta-Tek Sprut mount for pump-action shotguns
+		Tier:1   		count:1  	item:Pack of screws
+
+	Loyalty:2 value:1 name:UNV DLOC-IRD sight mount
+		Tier:1   		count:1  	item:Clin window cleaner
+
+	Loyalty:2 value:1 name:UNV DLOC-IRD sight mount
+		Tier:1   		count:1  	item:Analgin painkillers
+
+	Loyalty:2 value:1 name:Lobaev Arms 30mm scope mount
+		Tier:1   		count:1  	item:AI-2 medkit
+
+	Loyalty:3 value:1 name:MP-133 12ga 510mm barrel with rib
+		Tier:1   		count:1  	item:Rye croutons
+
+	Loyalty:1 value:1 name:MP-133 12ga 710mm barrel with rib
+		Tier:1   		count:1  	item:WD-40 (100ml)
+
+	Loyalty:3 value:1 name:MP-133 12ga 510mm barrel
+		Tier:1   		count:1  	item:Clin window cleaner
+
+	Loyalty:2 value:1 name:MP-133 custom plastic forestock with rails
+		Tier:1   		count:1  	item:Pile of meds
+
+	Loyalty:2 value:1 name:GK-02 12ga muzzle brake
+		Tier:1   		count:1  	item:Pile of meds
+
+	Loyalty:1 value:1 name:OP-SKS dovetail mount
+		Tier:1   		count:1  	item:Apollo Soyuz cigarettes
+
+	Loyalty:1 value:1 name:TOZ-106 20ga bolt-action shotgun
+		Tier:1   		count:1  	item:Pack of apple juice
+
+	Loyalty:3 value:2 name:JP Enterprises Flat-Top 30mm ring scope mount
+		Tier:1   		count:2  	item:Army crackers
+
+	Loyalty:3 value:2 name:Mosin Rifle ATI Monte Carlo chassis
+		Tier:1   		count:2  	item:Esmarch tourniquet
+
+	Loyalty:2 value:1 name:Mosin Rifle Tacfire Tanker Style 7.62x54R muzzle brake
+		Tier:1   		count:1  	item:Wrench
+
+	Loyalty:2 value:34 name:Mr. Holodilnick thermal bag
+		Tier:10  		count:3  	item:Meldonin injector
+		Tier:3   		count:1  	item:Metal cutting scissors
+		Tier:1   		count:1  	item:Bottle of saline solution
+
+	Loyalty:2 value:34 name:Mr. Holodilnick thermal bag
+		Tier:15  		count:2  	item:Intelligence folder
+		Tier:3   		count:1  	item:Gunpowder "Kite"
+		Tier:1   		count:1  	item:Esmarch tourniquet
+
+	Loyalty:3 value:1 name:M700 30mm integral ring scope mount
+		Tier:1   		count:1  	item:Schaman shampoo
+
+	Loyalty:2 value:1 name:Mosin Rifle AIM Sports Tri-Rail mount
+		Tier:1   		count:1  	item:Esmarch tourniquet
+
+	Loyalty:3 value:1 name:Mosin Rifle Texas Precision Products 7.62x54R muzzle brake
+		Tier:1   		count:1  	item:Pile of meds
+
+	Loyalty:4 value:1 name:Nightforce Magmount 34mm ring scope mount
+		Tier:1   		count:1  	item:Medical bloodset
+
+	Loyalty:2 value:2 name:Nightforce Magmount 34mm ring scope mount
+		Tier:1   		count:2  	item:Light bulb
+
+	Loyalty:2 value:2 name:Nightforce Magmount 34mm ring scope mount
+		Tier:1   		count:2  	item:Aluminum splint
+
+	Loyalty:1 value:1 name:VKBO army bag
+		Tier:1   		count:1  	item:Pack of Grand juice
+
+	Loyalty:1 value:1 name:VKBO army bag
+		Tier:1   		count:1  	item:Aseptic bandage
+
+	Loyalty:2 value:5 name:Armasight Vulcan MG 3.5x Bravo night vision scope
+		Tier:3   		count:1  	item:Morphine injector
+		Tier:1   		count:2  	item:Smoked Chimney drain cleaner
+
+	Loyalty:1 value:1 name:Armasight Vulcan universal base
+		Tier:1   		count:1  	item:Ox bleach
+
+	Loyalty:4 value:12 name:Nightforce ATACR 7-35x56 34mm riflescope
+		Tier:10  		count:1  	item:Secure Flash drive
+		Tier:1   		count:2  	item:Ortodontox toothpaste
+
+	Loyalty:4 value:1 name:Nightforce Magmount 34mm ring scope mount with Ruggedized Accessory Platform
+		Tier:1   		count:1  	item:Insulating tape
+
+	Loyalty:4 value:4 name:Mosin Rifle ProMag Archangel OPFOR PRS chassis
+		Tier:3   		count:1  	item:Ibuprofen painkillers
+		Tier:1   		count:1  	item:Power supply unit
+
+	Loyalty:1 value:1 name:Mosin Rifle carbine stock
+		Tier:1   		count:1  	item:Capacitors
+
+	Loyalty:1 value:1 name:Mosin Rifle sniper carbine stock
+		Tier:1   		count:1  	item:Light bulb
+
+	Loyalty:3 value:2 name:Mosin Rifle Witt Machine 7.62x54R muzzle brake
+		Tier:1   		count:2  	item:Analgin painkillers
+
+	Loyalty:2 value:1 name:Mosin Rifle AIM Sports Recoil Pad
+		Tier:1   		count:1  	item:F-1 hand grenade
+
+	Loyalty:3 value:6 name:Mosin Rifle Bramit 7.62x54R sound suppressor
+		Tier:1   		count:6  	item:Ox bleach
+
+	Loyalty:3 value:6 name:Mosin Rifle Bramit 7.62x54R sound suppressor
+		Tier:2   		count:3  	item:Horse figurine
+
+	Loyalty:1 value:1 name:Mosin Carbine 7.62x54R 514mm barrel
+		Tier:1   		count:1  	item:Phase control relay
+
+	Loyalty:1 value:1 name:MTs 20-01 stock
+		Tier:1   		count:1  	item:Hunting matches
+
+	Loyalty:2 value:9 name:Nightforce ATACR 7-35x56 34mm riflescope
+		Tier:7   		count:1  	item:Gold skull ring
+		Tier:1   		count:2  	item:Pile of meds
+
+	Loyalty:2 value:9 name:Nightforce ATACR 7-35x56 34mm riflescope
+		Tier:3   		count:3  	item:Shustrilo sealing foam
+
+	Loyalty:3 value:1 name:Nightforce Magmount 30mm ring scope mount
+		Tier:1   		count:1  	item:Pack of screws
+
+	Loyalty:4 value:2 name:Burris AR-P.E.P.R. 30mm ring scope mount
+		Tier:1   		count:2  	item:Can of Ice Green tea
+
+	Loyalty:3 value:6 name:Molot Arms VPO-101 "Vepr-Hunter" 7.62x51 carbine
+		Tier:1   		count:6  	item:Hunting matches
+
+	Loyalty:2 value:1 name:TOZ-106 custom cut Mosin stock
+		Tier:1   		count:1  	item:Alkaline cleaner for heat exchangers
+
+	Loyalty:2 value:13 name:Factory emergency exit key
+		Tier:10  		count:1  	item:Secure Flash drive
+		Tier:2   		count:1  	item:Alyonka chocolate bar
+		Tier:1   		count:1  	item:RGD-5 hand grenade
+
+	Loyalty:2 value:13 name:Factory emergency exit key
+		Tier:1   		count:13 	item:VOG-17 Khattabka improvised hand grenade
+
+	Loyalty:3 value:9 name:Surv12 field surgical kit
+		Tier:3   		count:3  	item:BakeEzy cook book
+
+	Loyalty:1 value:5 name:CMS surgical kit
+		Tier:3   		count:1  	item:KEKTAPE duct tape
+		Tier:1   		count:2  	item:Pack of Grand juice
+
+	Loyalty:1 value:5 name:CMS surgical kit
+		Tier:3   		count:1  	item:Electric drill
+		Tier:1   		count:2  	item:Damaged hard drive
+
+	Loyalty:4 value:7 name:NcSTAR ADO P4 Sniper 3-9x42 riflescope
+		Tier:2   		count:3  	item:Pack of milk
+		Tier:1   		count:1  	item:M18 smoke grenade (Green)
+
+	Loyalty:4 value:82 name:FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+		Tier:35  		count:2  	item:Advanced current converter
+		Tier:1   		count:12 	item:Esmarch tourniquet
+
+	Loyalty:1 value:5 name:Metal fuel tank
+		Tier:3   		count:1  	item:Working LCD
+		Tier:1   		count:2  	item:Insulating tape
+
+	Loyalty:1 value:5 name:Metal fuel tank
+		Tier:3   		count:1  	item:Aquapeps water purification tablets
+		Tier:1   		count:2  	item:Soap
+
+	Loyalty:3 value:183 name:Red Rebel ice pick
+		Tier:60  		count:3  	item:LEDX Skin Transilluminator
+		Tier:2   		count:1  	item:Pack of sodium bicarbonate
+		Tier:1   		count:1  	item:Piece of plexiglass
+
+	Loyalty:3 value:183 name:Red Rebel ice pick
+		Tier:10  		count:18 	item:Tetriz portable game console
+		Tier:20  		count:3  	item:Body armor repair kit
+		Tier:10  		count:1  	item:Golden egg
+		Tier:2   		count:1  	item:Spark plug
+		Tier:1   		count:1  	item:Pack of apple juice
+
+	Loyalty:2 value:1 name:MP-133 12ga 540mm barrel
+		Tier:1   		count:1  	item:Power supply unit
+
+	Loyalty:2 value:4 name:Molot Arms VPO-209 .366 TKM carbine
+		Tier:3   		count:1  	item:Broken GPhone X smartphone
+		Tier:1   		count:1  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:2 value:4 name:Monstrum Tactical Compact Prism Scope 2x32
+		Tier:3   		count:1  	item:Shustrilo sealing foam
+		Tier:1   		count:1  	item:Hunting matches
+
+	Loyalty:3 value:9 name:Camper axe
+		Tier:2   		count:4  	item:Wilston cigarettes
+		Tier:1   		count:1  	item:Screwdriver
+
+	Loyalty:3 value:9 name:Camper axe
+		Tier:2   		count:4  	item:Salewa first aid kit
+		Tier:1   		count:1  	item:Bottle of saline solution
+
+	Loyalty:3 value:45 name:FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+		Tier:5   		count:9  	item:Adrenaline injector
+
+	Loyalty:3 value:45 name:FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+		Tier:5   		count:9  	item:3-(b-TG) stimulant injector
+
+	Loyalty:4 value:288 name:T-7 Thermal Goggles with a Night Vision mount
+		Tier:20  		count:14 	item:Ophthalmoscope
+		Tier:10  		count:2  	item:Bottle of Tarkovskaya vodka
+		Tier:7   		count:1  	item:Gunpowder "Eagle"
+		Tier:1   		count:1  	item:Pack of Grand juice
+
+	Loyalty:2 value:1 name:MP-133 12ga 540mm barrel with rib
+		Tier:1   		count:1  	item:Aluminum splint
+
+	Loyalty:3 value:1 name:IEA Mil-Optics KH/F 34mm one-piece magmount
+		Tier:1   		count:1  	item:Zibbo lighter
+
+	Loyalty:3 value:8 name:Remington Model 700 7.62x51 bolt-action sniper rifle
+		Tier:1   		count:8  	item:Repellent
+
+	Loyalty:2 value:1 name:Mosin Rifle Tiger Rock 7.62x51 thread adapter
+		Tier:1   		count:1  	item:Classic matches
+
+	Loyalty:2 value:9 name:Saiga-12K ver.10 12ga semi-automatic shotgun
+		Tier:1   		count:9  	item:Duct tape
+
+	Loyalty:2 value:9 name:Saiga-12K ver.10 12ga semi-automatic shotgun
+		Tier:1   		count:9  	item:Screw nuts
+
+	Loyalty:2 value:2 name:MP-153 12ga semi-automatic shotgun
+		Tier:1   		count:2  	item:Screwdriver
+
+	Loyalty:2 value:2 name:MP-153 12ga semi-automatic shotgun
+		Tier:1   		count:2  	item:Chainlet
+
+	Loyalty:1 value:2 name:Molot Arms VPO-215 "Gornostay"  bolt-action rifle
+		Tier:1   		count:2  	item:Construction measuring tape
+
+	Loyalty:4 value:320 name:S I C C organizational pouch
+		Tier:20  		count:16 	item:Military COFDM Wireless Signal Transmitter
+		Tier:7   		count:11 	item:42 Signature Blend English Tea
+		Tier:2   		count:1  	item:Can of beef stew (Small)
+		Tier:1   		count:1  	item:Bottle of saline solution
+
+	Loyalty:4 value:320 name:S I C C organizational pouch
+		Tier:10  		count:32 	item:Golden neck chain
+		Tier:20  		count:10 	item:Military COFDM Wireless Signal Transmitter
+		Tier:2   		count:5  	item:RGO hand grenade
+
+	Loyalty:1 value:1 name:Mosin Rifle Arbalet Patriot K+W rail mount
+		Tier:1   		count:1  	item:Printer paper
+
+	Loyalty:3 value:8 name:Remington Model 700 7.62x51 bolt-action sniper rifle
+		Tier:1   		count:8  	item:Pack of Russian Army pineapple juice
+
+	Loyalty:2 value:6 name:CMS surgical kit
+		Tier:3   		count:2  	item:Propital regenerative stimulant injector
+
+	Loyalty:1 value:2 name:VOMZ Pilad 4x32 25.4mm riflescope
+		Tier:1   		count:2  	item:Clin window cleaner
+
+	Loyalty:3 value:10 name:Remington Model 700 7.62x51 bolt-action sniper rifle
+		Tier:7   		count:1  	item:Bottle of Pevko Light beer
+		Tier:2   		count:1  	item:Pack of instant noodles
+		Tier:1   		count:1  	item:Hunting matches
+
+	Loyalty:3 value:9 name:Remington Model 700 7.62x51 bolt-action sniper rifle
+		Tier:1   		count:9  	item:Pack of apple juice
+
+	Loyalty:2 value:17 name:Metal fuel tank
+		Tier:1   		count:17 	item:Pack of Vita juice
+		Tier:2   		count:3  	item:Pack of sodium bicarbonate
+
+	Loyalty:2 value:4 name:MP-155 12ga semi-automatic shotgun
+		Tier:3   		count:1  	item:Gas mask air filter
+		Tier:1   		count:1  	item:Aseptic bandage
+
+	Loyalty:3 value:1 name:MP-155 Ultima large recoil pad
+		Tier:1   		count:1  	item:Bolts
+
+	Loyalty:2 value:4 name:Grizzly medical kit
+		Tier:3   		count:1  	item:Set of files "Master"
+		Tier:1   		count:1  	item:Screw nuts
+
+	Loyalty:2 value:4 name:Grizzly medical kit
+		Tier:3   		count:1  	item:OPSMEN Earmor M32 headset
+		Tier:1   		count:1  	item:Smoked Chimney drain cleaner
+
+	Loyalty:3 value:3 name:Wilcox RAPTAR ES Tactical Rangefinder
+		Tier:2   		count:1  	item:Rechargeable battery
+		Tier:1   		count:1  	item:Chainlet
+
+	Loyalty:3 value:1 name:Recknagel Era-Tac 30mm ring scope mount
+		Tier:1   		count:1  	item:Insulating tape
+
+	Loyalty:1 value:1 name:MP-43-1C 12ga 725mm barrel
+		Tier:1   		count:1  	item:Bundle of wires
+
+	Loyalty:1 value:1 name:Lobaev Arms 30mm scope mount
+		Tier:1   		count:1  	item:Phase control relay
+
+	Loyalty:1 value:1 name:Lobaev Arms 30mm scope mount
+		Tier:1   		count:1  	item:Aluminum splint
+
+	Loyalty:4 value:5 name:HK417 7.62x51 16.5 inch barrel
+		Tier:3   		count:1  	item:Pliers Elite
+		Tier:1   		count:2  	item:Smoked Chimney drain cleaner
+
+	Loyalty:1 value:1 name:MP-43-1C 12ga double-barrel shotgun
+		Tier:1   		count:1  	item:WD-40 (100ml)
+
+	Loyalty:4 value:19 name:HK G28 7.62x51 marksman rifle
+		Tier:7   		count:2  	item:Gold skull ring
+		Tier:3   		count:1  	item:Aquapeps water purification tablets
+		Tier:1   		count:2  	item:Can of Ice Green tea
+
+	Loyalty:1 value:1 name:Kiba Arms SPRM rail mount for pump-action shotguns
+		Tier:1   		count:1  	item:Classic matches
+
+	Loyalty:1 value:1 name:Kiba Arms SPRM rail mount for pump-action shotguns
+		Tier:1   		count:1  	item:Can of green peas
+
+	Loyalty:2 value:1 name:MP-155 Ultima pistol grip
+		Tier:1   		count:1  	item:Aluminum splint
+
+	Loyalty:2 value:13 name:Military checkpoint key
+		Tier:1   		count:13 	item:Chainlet
+		Tier:2   		count:1  	item:Pack of oat flakes
+		Tier:1   		count:1  	item:Bottle of saline solution
+
+	Loyalty:2 value:13 name:Military checkpoint key
+		Tier:10  		count:1  	item:Golden neck chain
+		Tier:2   		count:1  	item:Pack of chlorine
+		Tier:1   		count:1  	item:Can of Ice Green tea
+
+	Loyalty:3 value:10 name:OLI logistics department office key
+		Tier:2   		count:5  	item:Can of TarCola soda
+
+	Loyalty:3 value:10 name:OLI logistics department office key
+		Tier:2   		count:5  	item:Can of pacific saury
+
+	Loyalty:4 value:1 name:SilencerCo AC-858 ASR .338 LM muzzle brake
+		Tier:1   		count:1  	item:D Size battery
+
+	Loyalty:2 value:3 name:Umka M33-SET1 hunter vest (Olive Drab)
+		Tier:2   		count:1  	item:Bottle of hydrogen peroxide
+		Tier:1   		count:1  	item:USB Adapter
+
+	Loyalty:4 value:7 name:MP-155 Ultima thermal camera
+		Tier:5   		count:1  	item:3-(b-TG) stimulant injector
+		Tier:1   		count:2  	item:Screwdriver
+
+	Loyalty:4 value:7 name:MP-155 Ultima thermal camera
+		Tier:1   		count:7  	item:Capacitors
+
+	Loyalty:4 value:8 name:Schmidt & Bender PM II 3-12x50 34mm riflescope
+		Tier:1   		count:8  	item:Army crackers
+
+	Loyalty:2 value:1 name:MP-155 Ultima polymer forestock
+		Tier:1   		count:1  	item:VOG-17 Khattabka improvised hand grenade
+
+	Loyalty:2 value:2 name:Chiappa Rhino 50DS .357 revolver
+		Tier:1   		count:2  	item:Medical tools
+
+	Loyalty:2 value:8 name:Surv12 field surgical kit
+		Tier:7   		count:1  	item:Ryzhy figurine
+		Tier:1   		count:1  	item:Bottle of water (0.6L)
+
+	Loyalty:2 value:8 name:Surv12 field surgical kit
+		Tier:1   		count:8  	item:RDG-2B smoke grenade
+
+	Loyalty:3 value:56 name:Grenade case
+		Tier:3   		count:18 	item:Cordura polyamide fabric
+		Tier:5   		count:4  	item:Car battery
+
+	Loyalty:3 value:56 name:Grenade case
+		Tier:5   		count:11 	item:Fuel conditioner
+		Tier:1   		count:1  	item:Esmarch tourniquet
+
+	Loyalty:2 value:1 name:MP-155 12ga 510mm barrel
+		Tier:1   		count:1  	item:Army crackers
+
+	Loyalty:2 value:1 name:MP-155 Ultima polymer stock
+		Tier:1   		count:1  	item:T-Shaped plug
+
+	Loyalty:1 value:19 name:EYE MK.2 professional hand-held compass
+		Tier:1   		count:19 	item:Pack of Grand juice
+		Tier:1   		count:6  	item:AI-2 medkit
+
+	Loyalty:1 value:1 name:VOMZ Pilad TargetRing reflex sight
+		Tier:1   		count:1  	item:F-1 hand grenade
+
+	Loyalty:3 value:22 name:Torrey Pines Logic T12W 30Hz thermal reflex sight
+		Tier:20  		count:1  	item:Microcontroller board
+		Tier:1   		count:2  	item:CAT hemostatic tourniquet
+
+	Loyalty:3 value:22 name:Torrey Pines Logic T12W 30Hz thermal reflex sight
+		Tier:2   		count:11 	item:Propane tank (5L)
+
+	Loyalty:4 value:170 name:Weapon case
+		Tier:3   		count:56 	item:C4 Explosive
+		Tier:60  		count:2  	item:LEDX Skin Transilluminator
+		Tier:2   		count:4  	item:Tube of Poxeram cold welding
+
+	Loyalty:4 value:170 name:Weapon case
+		Tier:3   		count:56 	item:Awl
+		Tier:35  		count:3  	item:Far-forward GPS Signal Amplifier Unit
+		Tier:5   		count:5  	item:Aquamari water bottle with filter
+		Tier:3   		count:1  	item:Gas mask air filter
+		Tier:1   		count:1  	item:Chainlet
+
+	Loyalty:4 value:18 name:RB-PSP2 key
+		Tier:7   		count:2  	item:Military circuit board
+		Tier:3   		count:1  	item:Peltor ComTac 2 headset (OD Green)
+		Tier:1   		count:1  	item:Bottle of saline solution
+
+	Loyalty:4 value:18 name:RB-PSP2 key
+		Tier:1   		count:18 	item:RGD-5 hand grenade
+		Tier:3   		count:1  	item:Salty Dog beef sausage
+		Tier:1   		count:2  	item:RDG-2B smoke grenade
+
+	Loyalty:1 value:3 name:MTs-255-12 12ga shotgun
+		Tier:2   		count:1  	item:Pack of sodium bicarbonate
+		Tier:1   		count:1  	item:AI-2 medkit
+
+	Loyalty:3 value:1 name:MP-155 Ultima medium recoil pad
+		Tier:1   		count:1  	item:AI-2 medkit
+
+	Loyalty:2 value:6 name:Remington Model 700 7.62x51 bolt-action sniper rifle
+		Tier:1   		count:6  	item:Aluminum splint
+
+	Loyalty:2 value:6 name:Remington Model 700 7.62x51 bolt-action sniper rifle
+		Tier:1   		count:6  	item:USB Adapter
+
+	Loyalty:4 value:37 name:Vortex Razor HD Gen.2 1-6x24 30mm riflescope
+		Tier:2   		count:18 	item:Energy-saving lamp
+		Tier:1   		count:17 	item:Clin window cleaner
+		Tier:3   		count:1  	item:Sewing kit
+		Tier:1   		count:2  	item:Aseptic bandage
+
+	Loyalty:4 value:37 name:Vortex Razor HD Gen.2 1-6x24 30mm riflescope
+		Tier:2   		count:18 	item:Alyonka chocolate bar
+		Tier:10  		count:1  	item:Meldonin injector
+		Tier:1   		count:7  	item:F-1 hand grenade
+
+	Loyalty:4 value:1 name:HK417 E2 buttstock
+		Tier:1   		count:1  	item:Capacitors
+
+	Loyalty:3 value:1 name:Recknagel Era-Tac 34mm ring scope mount
+		Tier:1   		count:1  	item:Piece of plexiglass
+
+	Loyalty:1 value:1 name:Vortex Ranger 1500 rangefinder
+		Tier:1   		count:1  	item:Clin window cleaner
+
+	Loyalty:3 value:9 name:Goshan cash register key
+		Tier:2   		count:4  	item:SurvL Survivor Lighter
+		Tier:1   		count:1  	item:Apollo Soyuz cigarettes
+
+	Loyalty:3 value:9 name:Goshan cash register key
+		Tier:7   		count:1  	item:Golden Star balm
+		Tier:1   		count:2  	item:Toilet paper
+
+	Loyalty:4 value:347 name:T H I C C Weapon case
+		Tier:35  		count:9  	item:Phased array element
+		Tier:15  		count:2  	item:Bottle of Dan Jackiel whiskey
+		Tier:1   		count:2  	item:USB Adapter
+
+	Loyalty:4 value:347 name:T H I C C Weapon case
+		Tier:20  		count:17 	item:Ophthalmoscope
+		Tier:15  		count:7  	item:Golden rooster figurine
+		Tier:1   		count:2  	item:Immobilizing splint
+
+	Loyalty:4 value:2 name:HK417 Adjustable Buttstock
+		Tier:1   		count:2  	item:Bottle of water (0.6L)
+
+	Loyalty:1 value:1 name:Chiappa Rhino 200DS 9x19 revolver
+		Tier:1   		count:1  	item:Construction measuring tape
+
+	Loyalty:2 value:1 name:VPO-101 "Vepr-Hunter" SVD-style stock
+		Tier:1   		count:1  	item:Insulating tape
+
+	Loyalty:1 value:1 name:MP-43-1C 12ga 510mm barrel
+		Tier:1   		count:1  	item:Piece of plexiglass
+
+	Loyalty:1 value:2 name:Splav Tarzan M22 chest rig (Smog)
+		Tier:1   		count:2  	item:Pack of Vita juice
+
+	Loyalty:1 value:2 name:Splav Tarzan M22 chest rig (Smog)
+		Tier:1   		count:2  	item:CAT hemostatic tourniquet
+
+	Loyalty:2 value:3 name:Pack of sugar
+		Tier:2   		count:1  	item:Pack of Tarker dried meat
+		Tier:1   		count:1  	item:Screwdriver
+
+	Loyalty:2 value:3 name:Pack of sugar
+		Tier:2   		count:1  	item:Can of sprats
+		Tier:1   		count:1  	item:Screwdriver
+
+	Loyalty:1 value:1 name:VPO-102 Arbalet mount
+		Tier:1   		count:1  	item:DVD drive
+
+	Loyalty:2 value:5 name:Burris FullField TAC30 1-4x24 30mm riflescope
+		Tier:3   		count:1  	item:CMS surgical kit
+		Tier:1   		count:2  	item:Can of green peas
+
+	Loyalty:2 value:5 name:Burris FullField TAC30 1-4x24 30mm riflescope
+		Tier:3   		count:1  	item:Peltor ComTac 2 headset (OD Green)
+		Tier:1   		count:2  	item:Power supply unit
+
+	Loyalty:4 value:1 name:HK Adjustable Buttstock cheek rest
+		Tier:1   		count:1  	item:Piece of plexiglass
+
+	Loyalty:3 value:165 name:Dorm room 314 marked key
+		Tier:60  		count:2  	item:Silicon Optoelectronic Integrated Circuits textbook
+		Tier:35  		count:1  	item:Graphics card
+		Tier:7   		count:1  	item:Military circuit board
+		Tier:2   		count:1  	item:Ripstop fabric
+		Tier:1   		count:1  	item:Pile of meds
+
+	Loyalty:3 value:165 name:Dorm room 314 marked key
+		Tier:20  		count:8  	item:Ophthalmoscope
+		Tier:3   		count:1  	item:Can of Majaica coffee beans
+		Tier:1   		count:2  	item:Light bulb
+
+	Loyalty:1 value:28 name:Dogtag case
+		Tier:7   		count:4  	item:P22 (Product 22) stimulant injector
+
+	Loyalty:1 value:28 name:Dogtag case
+		Tier:10  		count:2  	item:UHF RFID Reader
+		Tier:3   		count:2  	item:#FireKlean gun lube
+		Tier:1   		count:2  	item:Aseptic bandage
+
+	Loyalty:1 value:1 name:BelOMO PK-AA dovetail reflex sight
+		Tier:1   		count:1  	item:Damaged hard drive
+
+	Loyalty:2 value:2 name:SKS ATI Monte Carlo chassis
+		Tier:1   		count:2  	item:PAID AntiRoach spray
+
+	Loyalty:2 value:2 name:MP-18 7.62x54R single-shot rifle
+		Tier:1   		count:2  	item:AA Battery
+
+	Loyalty:2 value:3 name:Bottle of OLOLO Multivitamins
+		Tier:2   		count:1  	item:Vaseline balm
+		Tier:1   		count:1  	item:WD-40 (100ml)
+
+	Loyalty:2 value:3 name:Bottle of OLOLO Multivitamins
+		Tier:2   		count:1  	item:Can of humpback salmon
+		Tier:1   		count:1  	item:Pliers
+
+	Loyalty:3 value:2 name:Benelli M3 Super 90 12ga 500mm barrel
+		Tier:1   		count:2  	item:Zibbo lighter
+
+	Loyalty:4 value:14 name:Accuracy International AXMC .338 LM bolt-action sniper rifle
+		Tier:10  		count:1  	item:Bottle of Tarkovskaya vodka
+		Tier:3   		count:1  	item:Propital regenerative stimulant injector
+		Tier:1   		count:1  	item:Pack of screws
+
+	Loyalty:3 value:1 name:Benelli M3 Mesa Tactical Urbino stock
+		Tier:1   		count:1  	item:Wrench
+
+	Loyalty:4 value:62 name:SIG Sauer ECHO1 1-2x30mm 30Hz thermal reflex scope
+		Tier:20  		count:3  	item:Ophthalmoscope
+		Tier:1   		count:2  	item:M18 smoke grenade (Green)
+
+	Loyalty:3 value:1 name:Benelli M3 telescopic stock
+		Tier:1   		count:1  	item:Insulating tape
+
+	Loyalty:1 value:3 name:MP-133 12ga pump-action shotgun
+		Tier:2   		count:1  	item:Can of pacific saury
+		Tier:1   		count:1  	item:Zibbo lighter
+
+	Loyalty:1 value:3 name:MP-133 12ga pump-action shotgun
+		Tier:2   		count:1  	item:Can of humpback salmon
+		Tier:1   		count:1  	item:Light bulb
+
+	Loyalty:2 value:1 name:MP-18 polymer handguard
+		Tier:1   		count:1  	item:PAID AntiRoach spray
+
+	Loyalty:2 value:2 name:SKS Leapers UTG PRO MTU017 receiver cover mount
+		Tier:1   		count:2  	item:Car first aid kit
+
+	Loyalty:3 value:2 name:AI .338 LM Tactical Muzzle Brake 
+		Tier:1   		count:2  	item:Immobilizing splint
+
+	Loyalty:3 value:9 name:SV-98 7.62x54R bolt-action sniper rifle
+		Tier:2   		count:4  	item:Salewa first aid kit
+		Tier:1   		count:1  	item:Disposable syringe
+
+	Loyalty:2 value:3 name:Iskra ration pack
+		Tier:2   		count:1  	item:Pack of instant noodles
+		Tier:1   		count:1  	item:Esmarch tourniquet
+
+	Loyalty:3 value:4 name:AR-15 Precision Reflex GEN III Delta Carbon handguard
+		Tier:3   		count:1  	item:Flat screwdriver (Long)
+		Tier:1   		count:1  	item:VOG-25 Khattabka improvised hand grenade
+
+	Loyalty:4 value:6 name:Benelli M3 Super 90 dual-mode 12ga shotgun
+		Tier:1   		count:6  	item:Slickers chocolate bar
+
+	Loyalty:3 value:11 name:Schmidt & Bender PM II 5-25x56 34mm riflescope
+		Tier:1   		count:11 	item:PAID AntiRoach spray
+
+	Loyalty:3 value:1 name:AI AX-50 34mm scope mount
+		Tier:1   		count:1  	item:Piece of plexiglass
+
+	Loyalty:1 value:5 name:ZiD SP-81 26x75 signal pistol
+		Tier:3   		count:1  	item:Gas mask air filter
+		Tier:1   		count:2  	item:Soap
+
+	Loyalty:1 value:5 name:ZiD SP-81 26x75 signal pistol
+		Tier:3   		count:1  	item:Analog thermometer
+		Tier:1   		count:2  	item:Hunting matches
+
+	Loyalty:1 value:2 name:MP-43 12ga sawed-off double-barrel shotgun
+		Tier:1   		count:2  	item:Immobilizing splint
+
+	Loyalty:1 value:1 name:OP-SKS 7.62x39 520mm barrel
+		Tier:1   		count:1  	item:D Size battery
+
+	Loyalty:1 value:1 name:MP-18 7.62x54R 600mm barrel
+		Tier:1   		count:1  	item:Power supply unit
+
+	Loyalty:4 value:4 name:RB-PP key
+		Tier:3   		count:1  	item:Flat screwdriver (Long)
+		Tier:1   		count:1  	item:Pack of nails
+
+	Loyalty:4 value:4 name:RB-PP key
+		Tier:3   		count:1  	item:Can of herring
+		Tier:1   		count:1  	item:Phase control relay
+
+	Loyalty:4 value:116 name:Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope
+		Tier:7   		count:16 	item:Can of thermite
+		Tier:7   		count:6  	item:Grizzly medical kit
+		Tier:3   		count:1  	item:CMS surgical kit
+		Tier:1   		count:1  	item:Metal spare parts
+
+	Loyalty:4 value:116 name:Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope
+		Tier:35  		count:3  	item:VPX Flash Storage Module
+		Tier:1   		count:11 	item:WD-40 (100ml)
+
+	Loyalty:2 value:1 name:MP-18 sight mount
+		Tier:1   		count:1  	item:Immobilizing splint
+
+	Loyalty:4 value:1 name:RSP-30 reactive signal cartridge (Green)
+		Tier:1   		count:1  	item:M67 hand grenade
+
+	Loyalty:4 value:1 name:Armasight Zeus universal base
+		Tier:1   		count:1  	item:Medical bloodset
+
+	Loyalty:4 value:42 name:Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope
+		Tier:35  		count:1  	item:Virtex programmable processor
+		Tier:1   		count:7  	item:Medical bloodset
+
+	Loyalty:4 value:42 name:Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope
+		Tier:10  		count:4  	item:BEAR operative figurine
+		Tier:1   		count:2  	item:Emelya rye croutons
+
+	Loyalty:2 value:1 name:SKS CHOATE scope mount
+		Tier:1   		count:1  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:4 value:37 name:SWORD International Mk-18 .338 LM marksman rifle
+		Tier:3   		count:12 	item:Xenomorph sealing foam
+		Tier:1   		count:1  	item:Aseptic bandage
+
+	Loyalty:4 value:60 name:SOG Voodoo Hawk tactical tomahawk
+		Tier:7   		count:8  	item:42 Signature Blend English Tea
+		Tier:3   		count:1  	item:Weapon parts
+		Tier:1   		count:1  	item:Classic matches
+
+	Loyalty:4 value:60 name:SOG Voodoo Hawk tactical tomahawk
+		Tier:10  		count:6  	item:"Obdolbos 2" cocktail injector
+
+	Loyalty:1 value:1 name:Mosin Nagant M1891/30 Bayonet
+		Tier:1   		count:1  	item:Pack of Vita juice
+
+	Loyalty:1 value:1 name:6Kh4 Bayonet
+		Tier:1   		count:1  	item:Bolts
+
+	Loyalty:1 value:1 name:M9 Bayonet Replica
+		Tier:1   		count:1  	item:VOG-17 Khattabka improvised hand grenade

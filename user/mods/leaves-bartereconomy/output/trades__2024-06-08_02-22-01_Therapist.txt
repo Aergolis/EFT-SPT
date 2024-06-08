@@ -1,0 +1,496 @@
+[Updating Trader:Therapist]
+-------------------------------------------
+
+	Loyalty:1 value:2 name:Bottle of water (0.6L)
+		Tier:1   		count:2  	item:Metal spare parts
+
+	Loyalty:2 value:4 name:Salewa first aid kit
+		Tier:3   		count:1  	item:Can of beef stew (Large)
+		Tier:1   		count:1  	item:VOG-25 Khattabka improvised hand grenade
+
+	Loyalty:1 value:1 name:AI-2 medkit
+		Tier:1   		count:1  	item:Toothpaste
+
+	Loyalty:4 value:10 name:Grizzly medical kit
+		Tier:1   		count:10 	item:VOG-25 Khattabka improvised hand grenade
+
+	Loyalty:4 value:6 name:Augmentin antibiotic pills
+		Tier:1   		count:6  	item:Duct tape
+
+	Loyalty:1 value:1 name:Can of pacific saury
+		Tier:1   		count:1  	item:Immobilizing splint
+
+	Loyalty:1 value:1 name:Can of pacific saury
+		Tier:1   		count:1  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:3 value:6 name:IFAK individual first aid kit
+		Tier:1   		count:6  	item:Malboro Cigarettes
+
+	Loyalty:1 value:2 name:Factory plan map
+		Tier:1   		count:2  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:3 value:180 name:Item case
+		Tier:7   		count:25 	item:Gunpowder "Eagle"
+		Tier:20  		count:4  	item:Military COFDM Wireless Signal Transmitter
+		Tier:1   		count:2  	item:Zibbo lighter
+
+	Loyalty:1 value:1 name:Immobilizing splint
+		Tier:1   		count:1  	item:Apollo Soyuz cigarettes
+
+	Loyalty:2 value:3 name:IFAK individual first aid kit
+		Tier:2   		count:1  	item:SurvL Survivor Lighter
+		Tier:1   		count:1  	item:Ox bleach
+
+	Loyalty:2 value:3 name:IFAK individual first aid kit
+		Tier:2   		count:1  	item:Can of Max Energy energy drink
+		Tier:1   		count:1  	item:Pack of nails
+
+	Loyalty:1 value:2 name:Car first aid kit
+		Tier:1   		count:2  	item:Toilet paper
+
+	Loyalty:1 value:2 name:Iskra ration pack
+		Tier:1   		count:2  	item:M18 smoke grenade (Green)
+
+	Loyalty:1 value:2 name:Iskra ration pack
+		Tier:1   		count:2  	item:Screw nuts
+
+	Loyalty:4 value:6 name:Morphine injector
+		Tier:5   		count:1  	item:Fuel conditioner
+		Tier:1   		count:1  	item:Toothpaste
+
+	Loyalty:2 value:2 name:Emelya rye croutons
+		Tier:1   		count:2  	item:F-1 hand grenade
+
+	Loyalty:4 value:54 name:Money case
+		Tier:5   		count:10 	item:Fuel conditioner
+		Tier:3   		count:1  	item:Set of files "Master"
+		Tier:1   		count:1  	item:"Zarya" stun grenade
+
+	Loyalty:4 value:54 name:Money case
+		Tier:3   		count:18 	item:Walker's Razor Digital headset
+		Tier:10  		count:1  	item:Tetriz portable game console
+		Tier:3   		count:1  	item:Aquapeps water purification tablets
+		Tier:1   		count:2  	item:USB Adapter
+
+	Loyalty:1 value:3 name:Shoreline plan map
+		Tier:2   		count:1  	item:Can of sprats
+		Tier:1   		count:1  	item:Soap
+
+	Loyalty:1 value:2 name:Shoreline Health Resort plan map
+		Tier:1   		count:2  	item:Duct tape
+
+	Loyalty:2 value:28 name:Documents case
+		Tier:2   		count:14 	item:Augmentin antibiotic pills
+		Tier:1   		count:6  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:2 value:28 name:Documents case
+		Tier:7   		count:4  	item:Bottle of Pevko Light beer
+
+	Loyalty:2 value:11 name:Tarcone Director's office key
+		Tier:3   		count:3  	item:Walker's Razor Digital headset
+		Tier:1   		count:2  	item:Fleece fabric
+
+	Loyalty:2 value:11 name:Tarcone Director's office key
+		Tier:3   		count:3  	item:MRE ration pack
+		Tier:1   		count:2  	item:Fleece fabric
+
+	Loyalty:3 value:180 name:Item case
+		Tier:15  		count:12 	item:BEAR Buddy plush toy
+
+	Loyalty:3 value:180 name:Item case
+		Tier:15  		count:12 	item:Bottle of Fierce Hatchling moonshine
+
+	Loyalty:2 value:75 name:Key tool
+		Tier:20  		count:3  	item:Ophthalmoscope
+		Tier:5   		count:3  	item:SSD drive
+
+	Loyalty:2 value:75 name:Key tool
+		Tier:20  		count:3  	item:Portable defibrillator
+		Tier:2   		count:7  	item:Pack of instant noodles
+		Tier:1   		count:1  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:4 value:6 name:Adrenaline injector
+		Tier:1   		count:6  	item:Screw nuts
+
+	Loyalty:1 value:1 name:Analgin painkillers
+		Tier:1   		count:1  	item:VOG-17 Khattabka improvised hand grenade
+
+	Loyalty:1 value:1 name:Analgin painkillers
+		Tier:1   		count:1  	item:Strike Cigarettes
+
+	Loyalty:2 value:15 name:Pistol case
+		Tier:3   		count:5  	item:Toolset
+
+	Loyalty:2 value:15 name:Pistol case
+		Tier:2   		count:7  	item:Wilston cigarettes
+		Tier:1   		count:1  	item:Aluminum splint
+
+	Loyalty:1 value:110 name:Lucky Scav Junk box
+		Tier:5   		count:22 	item:Military cable
+		Tier:10  		count:4  	item:Roler Submariner gold wrist watch
+
+	Loyalty:2 value:4 name:Grizzly medical kit
+		Tier:3   		count:1  	item:Awl
+		Tier:1   		count:1  	item:Phase control relay
+
+	Loyalty:2 value:4 name:Grizzly medical kit
+		Tier:3   		count:1  	item:Pliers Elite
+		Tier:1   		count:1  	item:Crickent lighter
+
+	Loyalty:4 value:1619 name:T H I C C item case
+		Tier:15  		count:107	item:BEAR Buddy plush toy
+		Tier:3   		count:484	item:Salty Dog beef sausage
+		Tier:3   		count:471	item:Set of files "Master"
+		Tier:35  		count:39 	item:Graphics card
+		Tier:5   		count:199	item:3-(b-TG) stimulant injector
+		Tier:7   		count:133	item:P22 (Product 22) stimulant injector
+
+	Loyalty:4 value:1619 name:T H I C C item case
+		Tier:7   		count:231	item:Antique teapot
+		Tier:10  		count:153	item:Silver Badge
+		Tier:35  		count:40 	item:Graphics card
+		Tier:15  		count:61 	item:OFZ 30x160mm shell
+		Tier:10  		count:72 	item:"Obdolbos 2" cocktail injector
+		Tier:15  		count:41 	item:Military flash drive
+
+	Loyalty:3 value:61 name:Medicine case
+		Tier:35  		count:1  	item:VPX Flash Storage Module
+		Tier:1   		count:26 	item:VOG-25 Khattabka improvised hand grenade
+		Tier:1   		count:13 	item:Model 7290 Flash Bang grenade
+
+	Loyalty:4 value:92 name:Kiba Arms outer door key
+		Tier:20  		count:4  	item:Physical Bitcoin
+		Tier:1   		count:12 	item:Aluminum splint
+
+	Loyalty:4 value:92 name:Kiba Arms outer door key
+		Tier:15  		count:6  	item:BEAR Buddy plush toy
+		Tier:1   		count:2  	item:Slickers chocolate bar
+
+	Loyalty:1 value:1 name:Car first aid kit
+		Tier:1   		count:1  	item:Can of white salt
+
+	Loyalty:1 value:1 name:Car first aid kit
+		Tier:1   		count:1  	item:Slickers chocolate bar
+
+	Loyalty:1 value:32 name:Dogtag case
+		Tier:7   		count:4  	item:Peltor ComTac 4 Hybrid headset (Coyote Brown)
+		Tier:3   		count:1  	item:IFAK individual first aid kit
+		Tier:1   		count:1  	item:RGD-5 hand grenade
+
+	Loyalty:3 value:2 name:RB-AK key
+		Tier:1   		count:2  	item:Metal spare parts
+
+	Loyalty:3 value:2 name:RB-AK key
+		Tier:1   		count:2  	item:Pack of Russian Army pineapple juice
+
+	Loyalty:4 value:6 name:Zagustin hemostatic drug injector
+		Tier:3   		count:2  	item:Working LCD
+
+	Loyalty:2 value:2 name:Interchange plan map
+		Tier:1   		count:2  	item:Medical bloodset
+
+	Loyalty:1 value:2 name:Army crackers
+		Tier:1   		count:2  	item:Pack of apple juice
+
+	Loyalty:1 value:1 name:Slickers chocolate bar
+		Tier:1   		count:1  	item:M67 hand grenade
+
+	Loyalty:1 value:1 name:Slickers chocolate bar
+		Tier:1   		count:1  	item:Pile of meds
+
+	Loyalty:1 value:1 name:Pile of meds
+		Tier:1   		count:1  	item:Car first aid kit
+
+	Loyalty:1 value:1 name:Pile of meds
+		Tier:1   		count:1  	item:Esmarch tourniquet
+
+	Loyalty:2 value:4 name:Adrenaline injector
+		Tier:3   		count:1  	item:Propital regenerative stimulant injector
+		Tier:1   		count:1  	item:Toothpaste
+
+	Loyalty:2 value:4 name:Adrenaline injector
+		Tier:3   		count:1  	item:GreenBat lithium battery
+		Tier:1   		count:1  	item:Can of Ice Green tea
+
+	Loyalty:2 value:1 name:Aluminum splint
+		Tier:1   		count:1  	item:Can of green peas
+
+	Loyalty:2 value:1 name:Aluminum splint
+		Tier:1   		count:1  	item:Army bandage
+
+	Loyalty:3 value:3 name:Aluminum splint
+		Tier:2   		count:1  	item:Vaseline balm
+		Tier:1   		count:1  	item:Pliers
+
+	Loyalty:3 value:4 name:eTG-change regenerative stimulant injector
+		Tier:3   		count:1  	item:Shustrilo sealing foam
+		Tier:1   		count:1  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:3 value:4 name:eTG-change regenerative stimulant injector
+		Tier:3   		count:1  	item:Aquapeps water purification tablets
+		Tier:1   		count:1  	item:Esmarch tourniquet
+
+	Loyalty:1 value:2 name:Salewa first aid kit
+		Tier:1   		count:2  	item:Aseptic bandage
+
+	Loyalty:1 value:2 name:Salewa first aid kit
+		Tier:1   		count:2  	item:CALOK-B hemostatic applicator
+
+	Loyalty:4 value:5 name:Propital regenerative stimulant injector
+		Tier:3   		count:1  	item:Aquapeps water purification tablets
+		Tier:1   		count:2  	item:Can of green peas
+
+	Loyalty:3 value:4 name:SJ1 TGLabs combat stimulant injector
+		Tier:3   		count:1  	item:Propital regenerative stimulant injector
+		Tier:1   		count:1  	item:M67 hand grenade
+
+	Loyalty:3 value:4 name:SJ1 TGLabs combat stimulant injector
+		Tier:3   		count:1  	item:KEKTAPE duct tape
+		Tier:1   		count:1  	item:RGD-5 hand grenade
+
+	Loyalty:2 value:37 name:Medicine case
+		Tier:3   		count:12 	item:TP-200 TNT brick
+		Tier:3   		count:1  	item:Morphine injector
+		Tier:1   		count:1  	item:Esmarch tourniquet
+
+	Loyalty:2 value:37 name:Medicine case
+		Tier:10  		count:3  	item:Meldonin injector
+		Tier:3   		count:2  	item:TP-200 TNT brick
+		Tier:1   		count:1  	item:Esmarch tourniquet
+
+	Loyalty:3 value:180 name:Item case
+		Tier:5   		count:36 	item:Pack of Arseniy buckwheat
+		Tier:60  		count:2  	item:TerraGroup "Blue Folders" materials
+
+	Loyalty:2 value:122 name:Lucky Scav Junk box
+		Tier:7   		count:17 	item:42 Signature Blend English Tea
+		Tier:2   		count:12 	item:Horse figurine
+
+	Loyalty:4 value:1530 name:T H I C C item case
+		Tier:35  		count:43 	item:Virtex programmable processor
+		Tier:20  		count:52 	item:Physical Bitcoin
+		Tier:10  		count:76 	item:Meldonin injector
+		Tier:7   		count:91 	item:Ryzhy figurine
+		Tier:5   		count:108	item:Pack of Arseniy buckwheat
+		Tier:15  		count:31 	item:Intelligence folder
+
+	Loyalty:4 value:1530 name:T H I C C item case
+		Tier:15  		count:102	item:SJ9 TGLabs combat stimulant injector
+		Tier:15  		count:88 	item:Loot Lord plushie
+		Tier:7   		count:162	item:AHF1-M stimulant injector
+		Tier:35  		count:30 	item:Advanced current converter
+		Tier:20  		count:33 	item:Military COFDM Wireless Signal Transmitter
+		Tier:20  		count:22 	item:Ophthalmoscope
+
+	Loyalty:4 value:5 name:Pack of sugar
+		Tier:3   		count:1  	item:Can of squash spread
+		Tier:1   		count:2  	item:Printer paper
+
+	Loyalty:4 value:5 name:Pack of sugar
+		Tier:3   		count:1  	item:Dry fuel
+		Tier:1   		count:2  	item:Schaman shampoo
+
+	Loyalty:4 value:4 name:SJ6 TGLabs combat stimulant injector
+		Tier:3   		count:1  	item:Sewing kit
+		Tier:1   		count:1  	item:Smoked Chimney drain cleaner
+
+	Loyalty:4 value:4 name:SJ6 TGLabs combat stimulant injector
+		Tier:3   		count:1  	item:Iskra ration pack
+		Tier:1   		count:1  	item:Metal spare parts
+
+	Loyalty:4 value:20 name:TerraGroup Labs access keycard
+		Tier:10  		count:2  	item:Silver Badge
+
+	Loyalty:4 value:4 name:Ibuprofen painkillers
+		Tier:3   		count:1  	item:Xenomorph sealing foam
+		Tier:1   		count:1  	item:USB Adapter
+
+	Loyalty:4 value:4 name:Ibuprofen painkillers
+		Tier:3   		count:1  	item:Working LCD
+		Tier:1   		count:1  	item:Pack of Vita juice
+
+	Loyalty:2 value:4 name:CMS surgical kit
+		Tier:3   		count:1  	item:Military corrugated tube
+		Tier:1   		count:1  	item:AA Battery
+
+	Loyalty:2 value:4 name:CMS surgical kit
+		Tier:3   		count:1  	item:Video cassette with the Cyborg Killer movie
+		Tier:1   		count:1  	item:Slickers chocolate bar
+
+	Loyalty:3 value:107 name:LEDX Skin Transilluminator
+		Tier:60  		count:1  	item:TerraGroup "Blue Folders" materials
+		Tier:5   		count:9  	item:LVNDMARK's rat poison
+		Tier:1   		count:2  	item:Can of white salt
+
+	Loyalty:1 value:1 name:Toothpaste
+		Tier:1   		count:1  	item:VOG-25 Khattabka improvised hand grenade
+
+	Loyalty:1 value:1 name:Toothpaste
+		Tier:1   		count:1  	item:Strike Cigarettes
+
+	Loyalty:2 value:9 name:Expeditionary fuel tank
+		Tier:1   		count:9  	item:Slickers chocolate bar
+
+	Loyalty:2 value:9 name:Expeditionary fuel tank
+		Tier:1   		count:9  	item:Malboro Cigarettes
+
+	Loyalty:1 value:5 name:Tarcone Director's office key
+		Tier:3   		count:1  	item:IFAK individual first aid kit
+		Tier:1   		count:2  	item:Slickers chocolate bar
+
+	Loyalty:1 value:5 name:Tarcone Director's office key
+		Tier:3   		count:1  	item:Propital regenerative stimulant injector
+		Tier:1   		count:2  	item:Power supply unit
+
+	Loyalty:3 value:11 name:LBT-2670 Slim Field Med Pack (Black)
+		Tier:2   		count:5  	item:Flat screwdriver
+		Tier:1   		count:1  	item:Pliers
+
+	Loyalty:3 value:11 name:LBT-2670 Slim Field Med Pack (Black)
+		Tier:1   		count:11 	item:D Size battery
+
+	Loyalty:4 value:50 name:Injector case
+		Tier:3   		count:16 	item:Salty Dog beef sausage
+		Tier:10  		count:1  	item:"Obdolbos 2" cocktail injector
+		Tier:1   		count:1  	item:Esmarch tourniquet
+
+	Loyalty:4 value:50 name:Injector case
+		Tier:15  		count:3  	item:Weapon repair kit
+		Tier:3   		count:1  	item:Can of squash spread
+		Tier:1   		count:2  	item:Screw nuts
+
+	Loyalty:2 value:1 name:Rye croutons
+		Tier:1   		count:1  	item:Screw nuts
+
+	Loyalty:2 value:1 name:Rye croutons
+		Tier:1   		count:1  	item:Car first aid kit
+
+	Loyalty:1 value:1 name:Can of humpback salmon
+		Tier:1   		count:1  	item:RGD-5 hand grenade
+
+	Loyalty:1 value:1 name:Can of humpback salmon
+		Tier:1   		count:1  	item:Medical bloodset
+
+	Loyalty:1 value:1 name:Dorm room 206 key
+		Tier:1   		count:1  	item:Slickers chocolate bar
+
+	Loyalty:1 value:1 name:Dorm room 206 key
+		Tier:1   		count:1  	item:Capacitors
+
+	Loyalty:3 value:2 name:CALOK-B hemostatic applicator
+		Tier:1   		count:2  	item:RGD-5 hand grenade
+
+	Loyalty:2 value:9 name:Health Resort west wing room 221 key
+		Tier:1   		count:9  	item:Power supply unit
+
+	Loyalty:2 value:9 name:Health Resort west wing room 221 key
+		Tier:1   		count:9  	item:Alkaline cleaner for heat exchangers
+
+	Loyalty:1 value:2 name:Bottle of water (0.6L)
+		Tier:1   		count:2  	item:T-Shaped plug
+
+	Loyalty:1 value:2 name:Bottle of water (0.6L)
+		Tier:1   		count:2  	item:Bundle of wires
+
+	Loyalty:1 value:1 name:CALOK-B hemostatic applicator
+		Tier:1   		count:1  	item:Esmarch tourniquet
+
+	Loyalty:1 value:1 name:CALOK-B hemostatic applicator
+		Tier:1   		count:1  	item:Damaged hard drive
+
+	Loyalty:1 value:3 name:Dorm room 303 key
+		Tier:2   		count:1  	item:Wilston cigarettes
+		Tier:1   		count:1  	item:Analgin painkillers
+
+	Loyalty:1 value:3 name:Dorm room 303 key
+		Tier:2   		count:1  	item:Pack of milk
+		Tier:1   		count:1  	item:Slickers chocolate bar
+
+	Loyalty:1 value:1 name:Esmarch tourniquet
+		Tier:1   		count:1  	item:T-Shaped plug
+
+	Loyalty:2 value:3 name:42 Signature Blend English Tea
+		Tier:2   		count:1  	item:Wilston cigarettes
+		Tier:1   		count:1  	item:Construction measuring tape
+
+	Loyalty:2 value:3 name:42 Signature Blend English Tea
+		Tier:2   		count:1  	item:RGO hand grenade
+		Tier:1   		count:1  	item:Duct tape
+
+	Loyalty:3 value:56 name:Keycard holder case
+		Tier:3   		count:18 	item:Set of files "Master"
+		Tier:10  		count:2  	item:"Obdolbos" cocktail injector
+		Tier:5   		count:1  	item:MSA Sordin Supreme PRO-X/L headset
+		Tier:1   		count:1  	item:VOG-25 Khattabka improvised hand grenade
+
+	Loyalty:1 value:2 name:Salewa first aid kit
+		Tier:1   		count:2  	item:Toothpaste
+
+	Loyalty:1 value:2 name:Salewa first aid kit
+		Tier:1   		count:2  	item:Power supply unit
+
+	Loyalty:1 value:3 name:Bottle of OLOLO Multivitamins
+		Tier:2   		count:1  	item:UZRGM grenade fuze
+		Tier:1   		count:1  	item:Bottle of saline solution
+
+	Loyalty:1 value:3 name:Bottle of OLOLO Multivitamins
+		Tier:2   		count:1  	item:Portable Powerbank
+		Tier:1   		count:1  	item:USB Adapter
+
+	Loyalty:3 value:7 name:Propital regenerative stimulant injector
+		Tier:5   		count:1  	item:Golden 1GPhone smartphone
+		Tier:1   		count:2  	item:Insulating tape
+
+	Loyalty:3 value:7 name:Propital regenerative stimulant injector
+		Tier:3   		count:2  	item:Can of Majaica coffee beans
+		Tier:1   		count:1  	item:VOG-25 Khattabka improvised hand grenade
+
+	Loyalty:1 value:2 name:Portable bunkhouse key
+		Tier:1   		count:2  	item:CALOK-B hemostatic applicator
+
+	Loyalty:1 value:2 name:Portable bunkhouse key
+		Tier:1   		count:2  	item:Army bandage
+
+	Loyalty:1 value:1 name:Army crackers
+		Tier:1   		count:1  	item:Capacitors
+
+	Loyalty:1 value:1 name:Army crackers
+		Tier:1   		count:1  	item:T-Shaped plug
+
+	Loyalty:2 value:3 name:Propital regenerative stimulant injector
+		Tier:2   		count:1  	item:Energy-saving lamp
+		Tier:1   		count:1  	item:Phase control relay
+
+	Loyalty:2 value:3 name:Propital regenerative stimulant injector
+		Tier:2   		count:1  	item:Broken GPhone smartphone
+		Tier:1   		count:1  	item:Damaged hard drive
+
+	Loyalty:2 value:6 name:Dorm room 220 key
+		Tier:3   		count:2  	item:Bottle of "Norvinskiy Yadreniy" premium kvass (0.6L)
+
+	Loyalty:2 value:6 name:Dorm room 220 key
+		Tier:5   		count:1  	item:Adrenaline injector
+		Tier:1   		count:1  	item:Repellent
+
+	Loyalty:2 value:3 name:Medic Belt
+		Tier:2   		count:1  	item:Pack of oat flakes
+		Tier:1   		count:1  	item:Pack of nails
+
+	Loyalty:2 value:3 name:MARCH Assaulter Belt
+		Tier:2   		count:1  	item:Jar of DevilDog mayo
+		Tier:1   		count:1  	item:Slickers chocolate bar
+
+	Loyalty:1 value:50 name:Small Scavenger's Case
+		Tier:2   		count:25 	item:Can of Hot Rod energy drink
+		Tier:5   		count:5  	item:LVNDMARK's rat poison
+		Tier:1   		count:1  	item:M67 hand grenade
+
+	Loyalty:1 value:3 name:Small Leather Docket
+		Tier:2   		count:1  	item:Energy-saving lamp
+		Tier:1   		count:1  	item:Bottle of saline solution
+
+	Loyalty:1 value:2 name:Small Medical Pouch
+		Tier:1   		count:2  	item:AA Battery
+
+	Loyalty:1 value:1 name:Small Key Ring
+		Tier:1   		count:1  	item:Bottle of saline solution

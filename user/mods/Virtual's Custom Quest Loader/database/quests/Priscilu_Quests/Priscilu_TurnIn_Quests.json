@@ -1,0 +1,448 @@
+{
+  "PrisciluTIQ1": {
+    "QuestName": "Looking for Food",
+    "_id": "PrisciluTIQ1",
+    "acceptPlayerMessage": "PrisciluTIQ1 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "PrisciluTIQ1 changeQuestMessageText",
+    "completePlayerMessage": "PrisciluTIQ1 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+			  "_parent": "CounterCreator",
+			  "_props": {
+			  "counter": {
+			  "id": "Priscilu_WELCOME TASK",
+			  "conditions": [
+			  {
+			  "_parent": "Kills",
+			  "_props": {
+			  "target": "Savage",
+			  "compareMethod": ">=",
+			  "value": "1",
+			  "id": "Priscilu_WELCOME TASK1"
+			      }
+          }
+        ]
+      },
+      "id": "Priscilu_WELCOME TASK1",
+      "index": 0,
+      "parentId": "",
+      "oneSessionOnly": false,
+      "dynamicLocale": false,
+      "type": "Elimination",
+      "doNotResetIfCounterCompleted": false,
+      "value": "10",
+      "visibilityConditions": []
+      },
+      "dynamicLocale": false
+    },
+    {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PrisciluTIQ1 TASK1",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "65815f0e647e3d7246384e14"
+          ],
+          "value": 3,
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PrisciluTIQ1 TASK2",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "575146b724597720a27126d5"
+          ],
+          "value": 3,
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PrisciluTIQ1 TASK3",
+          "index": 2,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "60b0f93284c20f0feb453da7"
+          ],
+          "value": 3,
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "_parent": "Level",
+          "_props": {
+            "id": "PrisciluTIQ1_REQUIRED",
+            "index": 0,
+            "parentId": "",
+            "dynamicLocale": false,
+            "value": 1,
+            "compareMethod": ">=",
+            "visibilityConditions": []
+          }
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "PrisciluTIQ1 declinePlayerMessage",
+    "description": "PrisciluTIQ1 description",
+    "failMessageText": "PrisciluTIQ1 failMessageText",
+    "image": "/files/quest/icon/5979d3da86f774719f309082.png",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "PrisciluTIQ1 name",
+    "note": "PrisciluTIQ1 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "PrisciluTIQ1 reward_0",
+          "index": 0,
+          "type": "Experience",
+          "value": 3900
+        },
+        {
+          "id": "PrisciluTIQ1 reward_1",
+          "index": 1,
+          "target": "Priscilu",
+          "type": "TraderStanding",
+          "value": "0.03"
+        },
+        {
+          "findInRaid": true,
+          "id": "PrisciluTIQ1 reward_2",
+          "index": 2,
+          "items": [
+            {
+              "_id": "PrisciluTIQ1 reward_2_0",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 50000
+              }
+            }
+          ],
+          "target": "PrisciluTIQ1 reward_2_0",
+          "type": "Item",
+          "value": "50000"
+        },
+        {
+          "findInRaid": true,
+          "id": "PrisciluTIQ1 reward_3",
+          "index": 3,
+          "items": [
+            {
+              "_id": "661f33776b5151c024011d2e",
+              "_tpl": "59faff1d86f7746c51718c9c",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "661f33776b5151c024011d2e",
+          "type": "Item",
+          "value": "1"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "PrisciluTIQ1 startedMessageText",
+    "successMessageText": "PrisciluTIQ1 successMessageText",
+    "traderId": "Priscilu",
+    "type": "Completion"
+  },
+  "PrisciluTIQ2": {
+    "QuestName": "SKS-DRUM",
+    "_id": "PrisciluTIQ2",
+    "acceptPlayerMessage": "PrisciluTIQ2 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "PrisciluTIQ2 changeQuestMessageText",
+    "completePlayerMessage": "PrisciluTIQ2 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PrisciluTIQ2 TASK1",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "587e02ff24597743df3deaeb"
+          ],
+          "value": 1,
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PrisciluTIQ2 TASK2",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "61695095d92c473c7702147a"
+          ],
+          "value": 1,
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PrisciluTIQ2 TASK3",
+          "index": 2,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "64b7af5a8532cf95ee0a0dbd"
+          ],
+          "value": 75,
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "_parent": "Quest",
+          "_props": {
+            "id": "PrisciluTIQ2_REQUIREDQUEST",
+            "index": 1,
+            "parentId": "",
+            "dynamicLocale": false,
+            "target": "PrisciluTIQ1",
+            "status": [
+              4
+            ],
+            "availableAfter": 0,
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "PrisciluTIQ2 declinePlayerMessage",
+    "description": "PrisciluTIQ2 description",
+    "failMessageText": "PrisciluTIQ2 failMessageText",
+    "image": "/files/quest/icon/Priscilutiq2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "PrisciluTIQ2 name",
+    "note": "PrisciluTIQ2 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "PrisciluTIQ2 reward_0",
+          "index": 0,
+          "type": "Experience",
+          "value": 3900
+        },
+        {
+          "id": "PrisciluTIQ2 reward_1",
+          "index": 1,
+          "target": "Priscilu",
+          "type": "TraderStanding",
+          "value": "0.03"
+        },
+        {
+          "findInRaid": true,
+          "id": "PrisciluTIQ2 reward_2",
+          "index": 2,
+          "items": [
+            {
+              "_id": "PrisciluTIQ2 reward_2_0",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 45000
+              }
+            }
+          ],
+          "target": "PrisciluTIQ2 reward_2_0",
+          "type": "Item",
+          "value": "45000"
+        },
+        {
+          "findInRaid": true,
+          "id": "PrisciluTIQ2 reward_3",
+          "index": 3,
+          "items": [
+            {
+              "_id": "d7962a0006ad9f4b5a605060",
+              "_tpl": "587e02ff24597743df3deaeb",
+              "upd": {
+                "FireMode": {
+                  "FireMode": "single"
+                },
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                }
+              }
+            },
+            {
+              "_id": "af3c2e47708a892ba4990d92",
+              "_tpl": "5d0236dad7ad1a0940739d29",
+              "parentId": "d7962a0006ad9f4b5a605060",
+              "slotId": "mod_stock"
+            },
+            {
+              "_id": "3a61fe3883215429284b2380",
+              "_tpl": "634eff66517ccc8a960fc735",
+              "parentId": "d7962a0006ad9f4b5a605060",
+              "slotId": "mod_barrel"
+            },
+            {
+              "_id": "1f7c5c2e1332ab0fae2c0aff",
+              "_tpl": "5c5970672e221602b21d7855",
+              "parentId": "d7962a0006ad9f4b5a605060",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "329b99e8a7a6cd8cf1b34ea4",
+              "_tpl": "6415c694da439c6a97048b56",
+              "parentId": "d7962a0006ad9f4b5a605060",
+              "slotId": "mod_reciever"
+            },
+            {
+              "_id": "76cb645992f2a79a5847e147",
+              "_tpl": "59e0d99486f7744a32234762",
+              "parentId": "d7962a0006ad9f4b5a605060",
+              "slotId": "patron_in_weapon"
+            },
+            {
+              "_id": "39b9738a4f42e198cae8b532",
+              "_tpl": "5e2192a498a36665e8337386",
+              "parentId": "af3c2e47708a892ba4990d92",
+              "slotId": "mod_pistol_grip"
+            },
+            {
+              "_id": "425851a6179c794823edfc5e",
+              "_tpl": "56def37dd2720bec348b456a",
+              "parentId": "af3c2e47708a892ba4990d92",
+              "slotId": "mod_tactical_001",
+              "upd": {
+              "Light": {
+                "IsActive": true,
+                "SelectedMode": 0
+              }
+              }
+            },
+            {
+              "_id": "0a02ad74ba84a654fb5dbbbc",
+              "_tpl": "653ed132896b99b40a0292e6",
+              "parentId": "af3c2e47708a892ba4990d92",
+              "slotId": "mod_stock"
+            },
+            {
+              "_id": "35cc337aad223229b59c4915",
+              "_tpl": "634f05a21f9f536910079b56",
+              "parentId": "3a61fe3883215429284b2380",
+              "slotId": "mod_mount_000"
+            },
+            {
+              "_id": "f70737104c646deafa5f3b0e",
+              "_tpl": "593d1fa786f7746da62d61ac",
+              "parentId": "3a61fe3883215429284b2380",
+              "slotId": "mod_mount_001"
+            },
+            {
+              "_id": "10e6ecff61e5f610a6a8c7f2",
+              "_tpl": "593d490386f7745ee97a1555",
+              "parentId": "3a61fe3883215429284b2380",
+              "slotId": "mod_muzzle"
+            },
+            {
+              "_id": "3eb33c9497a1ee0c1098e86d",
+              "_tpl": "64b7af734b75259c590fa895",
+              "parentId": "1f7c5c2e1332ab0fae2c0aff",
+              "slotId": "cartridges"
+            },
+            {
+              "_id": "f4f050e315b583c64fca41e0",
+              "_tpl": "570fd721d2720bc5458b4596",
+              "parentId": "329b99e8a7a6cd8cf1b34ea4",
+              "slotId": "mod_scope",
+              "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                0
+                ],
+                "ScopesSelectedModes": [
+                0
+                ],
+                "SelectedScope": 0
+              }
+              }
+            },
+            {
+              "_id": "d20391a30d9347b81072cbbb",
+              "_tpl": "634f02d7517ccc8a960fc744",
+              "parentId": "35cc337aad223229b59c4915",
+              "slotId": "mod_gas_block"
+            },
+            {
+              "_id": "54502542e4da99184799dd33",
+              "_tpl": "634f08a21f9f536910079b5a",
+              "parentId": "d20391a30d9347b81072cbbb",
+              "slotId": "mod_mount_000"
+            }
+          ],
+          "target": "d7962a0006ad9f4b5a605060",
+          "type": "Item",
+          "value": "1"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "PrisciluTIQ2 startedMessageText",
+    "successMessageText": "PrisciluTIQ2 successMessageText",
+    "traderId": "Priscilu",
+    "type": "Completion"
+  }
+}

@@ -1,0 +1,8 @@
+Bot Name,Bot Nickname,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"Buster Melby",35,Failed,"Engineer's Office","Engineer's Office: Objective #1","1","21:07:56","21:08:30",
+Bot1,"Buster Melby",35,Active,"3rd Floor Bridge","3rd Floor Bridge: Objective #1","1","21:08:35","N/A",
+Bot2,"Леонтий Лесков",45,Failed,"Gate 0","Gate 0: Objective #1","2","21:07:56","21:07:57",
+Bot2,"Леонтий Лесков",45,Active,"Basement Crates","Basement Crates: Objective #1","1","21:07:57","N/A",
+Bot3,"Кондратий Кирилов",42,Completed,"Holding Area Patrol","Holding Area Patrol: Objective #1","1","21:07:57","21:08:00",
+Bot3,"Кондратий Кирилов",42,Pending,"Crates Near Lower Platform","Crates Near Lower Platform: Objective #1","1","21:08:06","N/A",
+Bot8,"Офицерский Кот (Roosevelt)",1,Failed,"Crates Near Lower Platform","Crates Near Lower Platform: Objective #1","1","21:07:58","21:08:47",

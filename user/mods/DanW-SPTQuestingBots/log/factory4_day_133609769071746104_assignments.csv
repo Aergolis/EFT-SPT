@@ -1,0 +1,9 @@
+Bot Name,Bot Nickname,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot88,"Максим Ельчин",38,Completed,"Crates Outside of Gate 3","Crates Outside of Gate 3: Objective #1","1","00:25:12","00:27:39",
+Bot88,"Максим Ельчин",38,Failed,"Crates Outside of Stairwell","Crates Outside of Stairwell: Objective #1","1","00:27:44","00:27:44",
+Bot90,"Сильвестр Коржаков",7,Completed,"Sanitary Standards - Part 1","Zone pumproom","1","00:25:13","00:25:27",
+Bot90,"Сильвестр Коржаков",7,Active,"The Huntsman Path - Secured Perimeter","Zone huntsman_013","1","00:25:33","N/A",
+Bot89,"Garrett Keck",30,Failed,"Break Room","Break Room: Objective #1","1","00:25:13","00:26:29",
+Bot91,"Семён Сталин",42,Completed,"Forklift","Forklift: Objective #1","1","00:25:13","00:25:28",
+Bot92,"Станислав Полищук",45,Failed,"Crates Outside of Scav Bunker","Crates Outside of Scav Bunker: Objective #1","1","00:25:13","00:25:32",
+Bot93,"Daniel Liang",35,Failed,"Holding Area Patrol","Holding Area Patrol: Objective #1","1","00:25:13","00:25:51",

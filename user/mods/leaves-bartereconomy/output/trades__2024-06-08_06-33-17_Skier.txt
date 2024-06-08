@@ -1,0 +1,932 @@
+[Updating Trader:Skier]
+-------------------------------------------
+
+	Loyalty:1 value:1 name:Kiba Arms 25mm accessory ring mount
+		Tier:1   		count:1  	item:Esmarch tourniquet
+
+	Loyalty:2 value:2 name:Burris FastFire 3 reflex sight
+		Tier:1   		count:2  	item:CPU fan
+
+	Loyalty:3 value:2 name:AR-15 PWS CQB 5.56x45 muzzle brake
+		Tier:1   		count:2  	item:Army bandage
+
+	Loyalty:3 value:2 name:AK Magpul MOE AKM handguard (Black)
+		Tier:1   		count:2  	item:Metal spare parts
+
+	Loyalty:2 value:1 name:TangoDown Stubby BGV-MK46K foregrip (Black)
+		Tier:1   		count:1  	item:Toilet paper
+
+	Loyalty:3 value:1 name:Magpul M-LOK AFG tactical foregrip (Stealth Grey)
+		Tier:1   		count:1  	item:Fleece fabric
+
+	Loyalty:2 value:1 name:SOK-12 Leapers UTG PRO MTU002 Short Top aluminum handguard
+		Tier:1   		count:1  	item:Pack of nails
+
+	Loyalty:3 value:1 name:Viking Tactics UVG tactical foregrip
+		Tier:1   		count:1  	item:Pile of meds
+
+	Loyalty:3 value:2 name:Holosun LS321 Tactical device
+		Tier:1   		count:2  	item:USB Adapter
+
+	Loyalty:1 value:2 name:Walther MRS reflex sight
+		Tier:1   		count:2  	item:Analgin painkillers
+
+	Loyalty:4 value:4 name:Vortex Razor AMG UH-1 holographic sight
+		Tier:3   		count:1  	item:Diary
+		Tier:1   		count:1  	item:Zibbo lighter
+
+	Loyalty:4 value:11 name:Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle
+		Tier:3   		count:3  	item:Awl
+		Tier:1   		count:2  	item:Zibbo lighter
+
+	Loyalty:2 value:2 name:OKP-7 reflex sight
+		Tier:1   		count:2  	item:USB Adapter
+
+	Loyalty:3 value:6 name:AKM Hexagon 7.62x39 sound suppressor
+		Tier:1   		count:6  	item:Toothpaste
+
+	Loyalty:3 value:2 name:AK-74 PWS CQB 74 5.45x39 muzzle brake
+		Tier:1   		count:2  	item:Duct tape
+
+	Loyalty:3 value:1 name:Magpul M-LOK AFG tactical foregrip (FDE)
+		Tier:1   		count:1  	item:Bolts
+
+	Loyalty:2 value:1 name:Remington Tactical Choke 12ga
+		Tier:1   		count:1  	item:Phase control relay
+
+	Loyalty:3 value:2 name:AK Zenit B-10M handguard with B-19 upper mount
+		Tier:1   		count:2  	item:AA Battery
+
+	Loyalty:3 value:1 name:Magpul M-LOK AFG tactical foregrip (Black)
+		Tier:1   		count:1  	item:Crickent lighter
+
+	Loyalty:2 value:4 name:Molot Arms VPO-136 "Vepr-KM" 7.62x39 carbine
+		Tier:3   		count:1  	item:Analog thermometer
+		Tier:1   		count:1  	item:RGD-5 hand grenade
+
+	Loyalty:3 value:12 name:AN/PVS-14 Night Vision Monocular
+		Tier:5   		count:2  	item:Aquamari water bottle with filter
+		Tier:1   		count:2  	item:CAT hemostatic tourniquet
+
+	Loyalty:2 value:1 name:AK Zenit DTK-1 7.62x39/5.45x39 muzzle brake-compensator
+		Tier:1   		count:1  	item:AA Battery
+
+	Loyalty:3 value:1 name:VSS/VAL Zenit B-3 ring mount
+		Tier:1   		count:1  	item:Malboro Cigarettes
+
+	Loyalty:3 value:2 name:AK Magpul MOE AKM handguard (Olive Drab)
+		Tier:1   		count:2  	item:Phase control relay
+
+	Loyalty:1 value:2 name:Saiga-9 9x19 carbine
+		Tier:1   		count:2  	item:USB Adapter
+
+	Loyalty:3 value:2 name:SOK-12 Leapers UTG PRO MTU002 Long Top aluminum handguard
+		Tier:1   		count:2  	item:Wrench
+
+	Loyalty:2 value:1 name:SOK-12 CSS rear sight rail mount
+		Tier:1   		count:1  	item:Toothpaste
+
+	Loyalty:2 value:1 name:AKS-74/AKS-74U Zenit PT Lock
+		Tier:1   		count:1  	item:Rye croutons
+
+	Loyalty:2 value:1 name:AK Zenit B-12 Mount
+		Tier:1   		count:1  	item:Fleece fabric
+
+	Loyalty:3 value:2 name:AR-15 Daniel Defense RIS II 9.5 handguard (Black)
+		Tier:1   		count:2  	item:M18 smoke grenade (Green)
+
+	Loyalty:3 value:7 name:SKS Hexagon 7.62x39 sound suppressor
+		Tier:1   		count:7  	item:Army crackers
+
+	Loyalty:3 value:2 name:AK Magpul MOE AKM handguard (Plum)
+		Tier:1   		count:2  	item:Smoked Chimney drain cleaner
+
+	Loyalty:3 value:7 name:Hensoldt FF 4-16x56 34mm riflescope
+		Tier:2   		count:3  	item:Energy-saving lamp
+		Tier:1   		count:1  	item:Construction measuring tape
+
+	Loyalty:2 value:1 name:PP-91 "Kedr" Rotor 43 RIS mount
+		Tier:1   		count:1  	item:Soap
+
+	Loyalty:1 value:1 name:AK Zenit RP-1 charging handle
+		Tier:1   		count:1  	item:Apollo Soyuz cigarettes
+
+	Loyalty:2 value:5 name:AK-74 TGP-A 5.45x39 sound suppressor
+		Tier:3   		count:1  	item:Sewing kit
+		Tier:1   		count:2  	item:Army bandage
+
+	Loyalty:2 value:3 name:Molot Arms VPO-209 .366 TKM carbine
+		Tier:2   		count:1  	item:Can of Max Energy energy drink
+		Tier:1   		count:1  	item:Clin window cleaner
+
+	Loyalty:2 value:1 name:Armytek Predator Pro v3 XHP35 HI flashlight
+		Tier:1   		count:1  	item:Construction measuring tape
+
+	Loyalty:1 value:1 name:AKS-74U Zenit B-11 handguard
+		Tier:1   		count:1  	item:Army crackers
+
+	Loyalty:3 value:2 name:AK Zenit B-33 dust cover
+		Tier:1   		count:2  	item:Fleece fabric
+
+	Loyalty:2 value:2 name:Zenit Klesch-2P flashlight with laser
+		Tier:1   		count:2  	item:Piece of plexiglass
+
+	Loyalty:4 value:5 name:EOTech XPS3-0 holographic sight
+		Tier:3   		count:1  	item:Dry fuel
+		Tier:1   		count:2  	item:Emelya rye croutons
+
+	Loyalty:3 value:1 name:Magpul M-LOK AFG tactical foregrip (FDE)
+		Tier:1   		count:1  	item:Bottle of water (0.6L)
+
+	Loyalty:1 value:1 name:Ultrafire WF-501B flashlight
+		Tier:1   		count:1  	item:WD-40 (100ml)
+
+	Loyalty:3 value:2 name:AK Magpul MOE AKM handguard (Stealth Grey)
+		Tier:1   		count:2  	item:Ox bleach
+
+	Loyalty:3 value:3 name:AK Zenit PT-3 "Klassika" stock
+		Tier:2   		count:1  	item:Wilston cigarettes
+		Tier:1   		count:1  	item:Analgin painkillers
+
+	Loyalty:3 value:2 name:AR-15 Magpul MOE Carbine stock (Black)
+		Tier:1   		count:2  	item:Pack of apple juice
+
+	Loyalty:1 value:1 name:MP-443 "Grach" Zenit B-8 mount
+		Tier:1   		count:1  	item:M67 hand grenade
+
+	Loyalty:3 value:1 name:Magpul AFG tactical foregrip (Black)
+		Tier:1   		count:1  	item:Army bandage
+
+	Loyalty:1 value:1 name:Armacon Baskak stock
+		Tier:1   		count:1  	item:Army crackers
+
+	Loyalty:1 value:2 name:VOMZ Pilad P1x42 Weaver reflex sight
+		Tier:1   		count:2  	item:Slickers chocolate bar
+
+	Loyalty:2 value:3 name:Hexagon 12K 12ga sound suppressor
+		Tier:2   		count:1  	item:Alyonka chocolate bar
+		Tier:1   		count:1  	item:Toothpaste
+
+	Loyalty:3 value:1 name:Magpul M-LOK AFG tactical foregrip (Olive Drab)
+		Tier:1   		count:1  	item:Can of white salt
+
+	Loyalty:3 value:2 name:AK Magpul MOE AKM handguard (FDE)
+		Tier:1   		count:2  	item:Tech manual
+
+	Loyalty:4 value:1 name:DVL-10 7.62x51 muzzle device
+		Tier:1   		count:1  	item:Light bulb
+
+	Loyalty:3 value:1 name:AKM/AK-74 ME4 buffer tube adapter
+		Tier:1   		count:1  	item:VOG-25 Khattabka improvised hand grenade
+
+	Loyalty:3 value:2 name:OKP-7 reflex sight (Dovetail)
+		Tier:1   		count:2  	item:Construction measuring tape
+
+	Loyalty:1 value:1 name:AK UltiMAK M1-B gas tube & handguard
+		Tier:1   		count:1  	item:Pliers
+
+	Loyalty:3 value:14 name:Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle
+		Tier:10  		count:1  	item:UHF RFID Reader
+		Tier:3   		count:1  	item:Video cassette with the Cyborg Killer movie
+		Tier:1   		count:1  	item:Smoked Chimney drain cleaner
+
+	Loyalty:3 value:14 name:Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle
+		Tier:1   		count:14 	item:Construction measuring tape
+
+	Loyalty:3 value:7 name:AKM Zenit DTK-4M 7.62x39 sound suppressor
+		Tier:1   		count:7  	item:M18 smoke grenade (Green)
+
+	Loyalty:2 value:4 name:Remington Model 870 12ga pump-action shotgun
+		Tier:3   		count:1  	item:Toolset
+		Tier:1   		count:1  	item:RGD-5 hand grenade
+
+	Loyalty:4 value:2 name:AKM/AK-74 FAB Defense UAS stock
+		Tier:1   		count:2  	item:Immobilizing splint
+
+	Loyalty:4 value:2 name:Magpul MOE Carbine rubber buttpad
+		Tier:1   		count:2  	item:Light bulb
+
+	Loyalty:2 value:1 name:M870 FAB Defense AGR-870 pistol grip
+		Tier:1   		count:1  	item:Ox bleach
+
+	Loyalty:1 value:3 name:Rotor 43 .366 TKM muzzle brake-compensator
+		Tier:2   		count:1  	item:Printed circuit board
+		Tier:1   		count:1  	item:VOG-25 Khattabka improvised hand grenade
+
+	Loyalty:2 value:1 name:AK-74M/AK-100 Zenit PT Lock
+		Tier:1   		count:1  	item:CALOK-B hemostatic applicator
+
+	Loyalty:4 value:5 name:DVL-10 7.62x51 500mm barrel
+		Tier:3   		count:1  	item:Can of beef stew (Large)
+		Tier:1   		count:2  	item:Zibbo lighter
+
+	Loyalty:4 value:8 name:Hensoldt FF 4-16x56 34mm riflescope
+		Tier:3   		count:2  	item:Electric drill
+		Tier:1   		count:2  	item:Can of Ice Green tea
+
+	Loyalty:2 value:2 name:Holosun HS401G5 reflex sight
+		Tier:1   		count:2  	item:AA Battery
+
+	Loyalty:2 value:2 name:AK Zenit PT-1 "Klassika" stock
+		Tier:1   		count:2  	item:Bolts
+
+	Loyalty:2 value:1 name:AKM/AK-74 Zenit PT Lock
+		Tier:1   		count:1  	item:M18 smoke grenade (Green)
+
+	Loyalty:2 value:4 name:ADAR 2-15 5.56x45 carbine
+		Tier:3   		count:1  	item:MRE ration pack
+		Tier:1   		count:1  	item:Aseptic bandage
+
+	Loyalty:1 value:1 name:12/70 RIP ammo pack (5 pcs)
+		Tier:1   		count:1  	item:Army crackers
+
+	Loyalty:2 value:3 name:Rotor 43 9x19 muzzle brake-compensator
+		Tier:2   		count:1  	item:Pack of milk
+		Tier:1   		count:1  	item:T-Shaped plug
+
+	Loyalty:2 value:3 name:Rotor 43 9x19 muzzle brake-compensator
+		Tier:2   		count:1  	item:Electronic components
+		Tier:1   		count:1  	item:Disposable syringe
+
+	Loyalty:2 value:5 name:AK-74 Hexagon 5.45x39 sound suppressor
+		Tier:3   		count:1  	item:Can of Majaica coffee beans
+		Tier:1   		count:2  	item:Can of Ice Green tea
+
+	Loyalty:4 value:1 name:SA-58 FAB Defense AG-FAL pistol grip
+		Tier:1   		count:1  	item:Can of green peas
+
+	Loyalty:4 value:98 name:Miller Bros. Blades M-2 Tactical Sword
+		Tier:7   		count:14 	item:AHF1-M stimulant injector
+		Tier:7   		count:3  	item:Gunpowder "Eagle"
+
+	Loyalty:4 value:98 name:Miller Bros. Blades M-2 Tactical Sword
+		Tier:35  		count:2  	item:Far-forward GPS Signal Amplifier Unit
+		Tier:3   		count:9  	item:GreenBat lithium battery
+		Tier:1   		count:1  	item:Pack of Russian Army pineapple juice
+
+	Loyalty:4 value:142 name:Trijicon REAP-IR thermal scope
+		Tier:3   		count:47 	item:Video cassette with the Cyborg Killer movie
+		Tier:10  		count:10 	item:Antique vase
+		Tier:2   		count:1  	item:Pack of oat flakes
+		Tier:1   		count:1  	item:Malboro Cigarettes
+
+	Loyalty:4 value:142 name:Trijicon REAP-IR thermal scope
+		Tier:60  		count:2  	item:LEDX Skin Transilluminator
+		Tier:3   		count:7  	item:CMS surgical kit
+		Tier:1   		count:1  	item:Bundle of wires
+
+	Loyalty:2 value:1 name:PNV-10T dovetail adapter
+		Tier:1   		count:1  	item:Clin window cleaner
+
+	Loyalty:1 value:1 name:MP-133/153 Taktika Tula 12003 stock adapter
+		Tier:1   		count:1  	item:RDG-2B smoke grenade
+
+	Loyalty:4 value:2 name:AR-15 FAB Defense GL-SHOCK buttstock
+		Tier:1   		count:2  	item:Aseptic bandage
+
+	Loyalty:1 value:2 name:Molot Arms VPO-136 "Vepr-KM" 7.62x39 carbine
+		Tier:1   		count:2  	item:Ortodontox toothpaste
+
+	Loyalty:1 value:2 name:Molot Arms VPO-136 "Vepr-KM" 7.62x39 carbine
+		Tier:1   		count:2  	item:Malboro Cigarettes
+
+	Loyalty:2 value:4 name:PNV-10T Night Vision Goggles
+		Tier:3   		count:1  	item:MRE ration pack
+		Tier:1   		count:1  	item:Bottle of saline solution
+
+	Loyalty:4 value:4 name:AK Vezhlivyy Strelok VS-24 + VS-33c handguard & gas tube combo
+		Tier:3   		count:1  	item:Can of squash spread
+		Tier:1   		count:1  	item:Army crackers
+
+	Loyalty:3 value:1 name:Zenit RK-0 tactical foregrip
+		Tier:1   		count:1  	item:Malboro Cigarettes
+
+	Loyalty:2 value:2 name:AR-15 Magpul MOE SL medium length M-LOK handguard
+		Tier:1   		count:2  	item:"Zarya" stun grenade
+
+	Loyalty:2 value:11 name:SIG MCX Multi Cal. assault rifle
+		Tier:10  		count:1  	item:Secure Flash drive
+		Tier:1   		count:1  	item:VOG-17 Khattabka improvised hand grenade
+
+	Loyalty:2 value:11 name:SIG MCX Multi Cal. assault rifle
+		Tier:1   		count:11 	item:WD-40 (100ml)
+		Tier:1   		count:1  	item:Fleece fabric
+
+	Loyalty:2 value:1 name:Zenit RK-4 tactical foregrip
+		Tier:1   		count:1  	item:Screwdriver
+
+	Loyalty:4 value:6 name:Zenit RK-1 tactical foregrip on B-25U mount
+		Tier:5   		count:1  	item:SAS drive
+		Tier:1   		count:1  	item:Screwdriver
+
+	Loyalty:2 value:1 name:Zenit B-13V "Klassika" dovetail rail platform
+		Tier:1   		count:1  	item:Pack of nails
+
+	Loyalty:4 value:4 name:AK Magpul Zhukov-U handguard (FDE)
+		Tier:3   		count:1  	item:Can of condensed milk
+		Tier:1   		count:1  	item:Emelya rye croutons
+
+	Loyalty:3 value:1 name:M700 Magpul Pro 700 folding stock
+		Tier:1   		count:1  	item:Duct tape
+
+	Loyalty:3 value:7 name:Rotor 43 7.62x54R muzzle brake-compensator
+		Tier:1   		count:7  	item:VOG-25 Khattabka improvised hand grenade
+
+	Loyalty:1 value:1 name:Zenit RK-6 tactical foregrip
+		Tier:1   		count:1  	item:CPU fan
+
+	Loyalty:4 value:2 name:Zenit Perst-3 tactical device
+		Tier:1   		count:2  	item:Army bandage
+
+	Loyalty:3 value:1 name:M700 Magpul Pro 700 chassis inline mount
+		Tier:1   		count:1  	item:Malboro Cigarettes
+
+	Loyalty:4 value:8 name:EOTech Vudu 1-6x24 30mm riflescope
+		Tier:1   		count:8  	item:Pack of apple juice
+
+	Loyalty:2 value:3 name:Kiba Arms Short Prism 2.5x scope
+		Tier:2   		count:1  	item:Pack of Tarker dried meat
+		Tier:1   		count:1  	item:Soap
+
+	Loyalty:2 value:1 name:RTM Pillau tactical foregrip
+		Tier:1   		count:1  	item:Medical bloodset
+
+	Loyalty:4 value:2 name:AK FAB Defense PDC dust cover
+		Tier:1   		count:2  	item:Emelya rye croutons
+
+	Loyalty:4 value:16 name:Lone Star TX-15 DML 5.56x45 carbine
+		Tier:1   		count:16 	item:Alkaline cleaner for heat exchangers
+		Tier:2   		count:1  	item:UZRGM grenade fuze
+		Tier:1   		count:1  	item:Crickent lighter
+
+	Loyalty:2 value:1 name:AK Zenit B-10 Handguard
+		Tier:1   		count:1  	item:Pack of Vita juice
+
+	Loyalty:4 value:4 name:AR-15 SAI JailBrake 5.56x45 muzzle device
+		Tier:3   		count:1  	item:Morphine injector
+		Tier:1   		count:1  	item:Can of Ice Green tea
+
+	Loyalty:1 value:2 name:AR-15 Magpul MOE SL carbine length M-LOK handguard
+		Tier:1   		count:2  	item:Esmarch tourniquet
+
+	Loyalty:1 value:1 name:WASR-10/63 CAF wooden foregrip
+		Tier:1   		count:1  	item:VOG-17 Khattabka improvised hand grenade
+
+	Loyalty:3 value:1 name:Zenit RK-5 tactical foregrip
+		Tier:1   		count:1  	item:Pack of Russian Army pineapple juice
+
+	Loyalty:2 value:1 name:AR-15 SureFire WarComp 5.56x45 flash hider
+		Tier:1   		count:1  	item:Alkaline cleaner for heat exchangers
+
+	Loyalty:4 value:8 name:AR-15 SAI 10 inch QD Rail handguard
+		Tier:3   		count:2  	item:Aramid fiber fabric
+		Tier:1   		count:2  	item:Slickers chocolate bar
+
+	Loyalty:4 value:10 name:ORSIS T-5000M 7.62x51 bolt-action sniper rifle
+		Tier:1   		count:10 	item:Bundle of wires
+
+	Loyalty:4 value:4 name:AK Magpul Zhukov-U handguard (Plum)
+		Tier:3   		count:1  	item:Xenomorph sealing foam
+		Tier:1   		count:1  	item:Piece of plexiglass
+
+	Loyalty:3 value:3 name:SKS FAB Defense UAS chassis
+		Tier:2   		count:1  	item:Magnet
+		Tier:1   		count:1  	item:Insulating tape
+
+	Loyalty:3 value:2 name:AK Venom Tactical Antidote 7.62x39 muzzle brake-compensator
+		Tier:1   		count:2  	item:Toilet paper
+
+	Loyalty:2 value:4 name:ADAR 2-15 5.56x45 carbine
+		Tier:3   		count:1  	item:Sewing kit
+		Tier:1   		count:1  	item:AA Battery
+
+	Loyalty:3 value:1 name:SKS/VZ-58 FAB Defense AG-58 pistol grip
+		Tier:1   		count:1  	item:Screwdriver
+
+	Loyalty:3 value:3 name:FN P90 5.7x28 16 inch barrel
+		Tier:2   		count:1  	item:Power cord
+		Tier:1   		count:1  	item:Pile of meds
+
+	Loyalty:3 value:3 name:Zenit RK-1 tactical foregrip
+		Tier:2   		count:1  	item:WD-40 (400ml)
+		Tier:1   		count:1  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:2 value:1 name:Zenit B-13 "Klassika" dovetail rail platform
+		Tier:1   		count:1  	item:Printer paper
+
+	Loyalty:2 value:2 name:Glock FAB Defense GLR-17 stock
+		Tier:1   		count:2  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:3 value:1 name:FN PS90 stock
+		Tier:1   		count:1  	item:Disposable syringe
+
+	Loyalty:1 value:1 name:TOZ-106 20ga bolt-action shotgun
+		Tier:1   		count:1  	item:Pile of meds
+
+	Loyalty:3 value:12 name:Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle
+		Tier:10  		count:1  	item:Roler Submariner gold wrist watch
+		Tier:1   		count:2  	item:Medical bloodset
+
+	Loyalty:3 value:12 name:Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle
+		Tier:10  		count:1  	item:Press pass (issued for NoiceGuy)
+		Tier:1   		count:2  	item:Apollo Soyuz cigarettes
+
+	Loyalty:3 value:3 name:M700 Magpul Pro 700 chassis
+		Tier:2   		count:1  	item:RGO hand grenade
+		Tier:1   		count:1  	item:Phase control relay
+
+	Loyalty:1 value:1 name:AK AKademia Bastion dust cover
+		Tier:1   		count:1  	item:Repellent
+
+	Loyalty:4 value:10 name:AR-15 SAI 14.5 inch QD Rail handguard
+		Tier:2   		count:5  	item:Horse figurine
+
+	Loyalty:3 value:1 name:FN PS90 5.7x28 upper receiver
+		Tier:1   		count:1  	item:Army crackers
+
+	Loyalty:4 value:5 name:Zenit RK-2 tactical foregrip
+		Tier:3   		count:1  	item:Aramid fiber fabric
+		Tier:1   		count:2  	item:Printer paper
+
+	Loyalty:1 value:2 name:AR-15 5.56x45 Molot Arms 406mm barrel
+		Tier:1   		count:2  	item:"Zarya" stun grenade
+
+	Loyalty:4 value:2 name:AK Lantac Drakon 7.62x39 muzzle brake
+		Tier:1   		count:2  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:1 value:1 name:NcSTAR Tactical blue laser LAM-module
+		Tier:1   		count:1  	item:Pack of nails
+
+	Loyalty:4 value:170 name:Weapon case
+		Tier:20  		count:8  	item:Military COFDM Wireless Signal Transmitter
+		Tier:7   		count:1  	item:Golden Star balm
+		Tier:2   		count:1  	item:Alyonka chocolate bar
+		Tier:1   		count:1  	item:Pack of Russian Army pineapple juice
+
+	Loyalty:4 value:170 name:Weapon case
+		Tier:60  		count:2  	item:Advanced Electronic Materials textbook
+		Tier:15  		count:3  	item:Cultist figurine
+		Tier:3   		count:1  	item:Weapon parts
+		Tier:1   		count:2  	item:Power supply unit
+
+	Loyalty:4 value:4 name:AK Zenit B-30 handguard with B-31S upper handguard rail
+		Tier:3   		count:1  	item:Toolset
+		Tier:1   		count:1  	item:Pliers
+
+	Loyalty:3 value:2 name:KRISS Vector 9x19 6 inch barrel
+		Tier:1   		count:2  	item:Bottle of water (0.6L)
+
+	Loyalty:1 value:1 name:BNTI Zhuk body armor (Press)
+		Tier:1   		count:1  	item:Capacitors
+
+	Loyalty:4 value:2 name:STM-9 9x19 16 inch barrel
+		Tier:1   		count:2  	item:Power supply unit
+
+	Loyalty:2 value:4 name:Chiappa Rhino 50DS .357 revolver
+		Tier:3   		count:1  	item:KEKTAPE duct tape
+		Tier:1   		count:1  	item:Army crackers
+
+	Loyalty:3 value:3 name:AK TDI X47 tactical handguard rail system
+		Tier:2   		count:1  	item:Pack of Tarker dried meat
+		Tier:1   		count:1  	item:VOG-25 Khattabka improvised hand grenade
+
+	Loyalty:2 value:1 name:KRISS Defiance low profile flip-up front sight
+		Tier:1   		count:1  	item:Aluminum splint
+
+	Loyalty:2 value:9 name:Hexagon 12K 12ga sound suppressor
+		Tier:5   		count:1  	item:Pack of Arseniy buckwheat
+		Tier:3   		count:1  	item:BakeEzy cook book
+		Tier:1   		count:1  	item:Clin window cleaner
+
+	Loyalty:2 value:9 name:Hexagon 12K 12ga sound suppressor
+		Tier:7   		count:1  	item:Bottle of Pevko Light beer
+		Tier:1   		count:2  	item:Pack of Russian Army pineapple juice
+
+	Loyalty:2 value:1 name:RFB thread spacer
+		Tier:1   		count:1  	item:Capacitors
+
+	Loyalty:4 value:2 name:Geissele Super Precision 30mm ring scope mount (DDC)
+		Tier:1   		count:2  	item:Duct tape
+
+	Loyalty:4 value:2 name:Geissele Super Precision 30mm ring scope mount
+		Tier:1   		count:2  	item:Car first aid kit
+
+	Loyalty:1 value:2 name:SIG Sauer ROMEO7 1x30 reflex sight (Prototype)
+		Tier:1   		count:2  	item:Screw nuts
+
+	Loyalty:3 value:8 name:Thunder Beast Arms Ultra 5 sound suppressor
+		Tier:7   		count:1  	item:Veritas guitar pick
+		Tier:1   		count:1  	item:Pack of Grand juice
+
+	Loyalty:3 value:8 name:Thunder Beast Arms Ultra 5 sound suppressor
+		Tier:2   		count:4  	item:Can of sprats
+
+	Loyalty:4 value:12 name:TDI KRISS Vector Gen.2 9x19 submachine gun
+		Tier:1   		count:12 	item:Phase control relay
+		Tier:1   		count:1  	item:USB Adapter
+
+	Loyalty:3 value:2 name:AR-15 Soyuz-TM 9 inch M-LOK handguard
+		Tier:1   		count:2  	item:Alkaline cleaner for heat exchangers
+
+	Loyalty:2 value:1 name:FN SCAR PWS SRX rail extension
+		Tier:1   		count:1  	item:AI-2 medkit
+
+	Loyalty:4 value:11 name:TDI KRISS Vector Gen.2 .45 ACP submachine gun
+		Tier:1   		count:11 	item:CALOK-B hemostatic applicator
+
+	Loyalty:3 value:2 name:SOK-12 Custom Guns Type-340 handguard
+		Tier:1   		count:2  	item:Can of Ice Green tea
+
+	Loyalty:3 value:1 name:KRISS Vector non-folding stock adapter
+		Tier:1   		count:1  	item:Toothpaste
+
+	Loyalty:2 value:2 name:Leapers UTG reflex sight
+		Tier:1   		count:2  	item:PAID AntiRoach spray
+
+	Loyalty:3 value:1 name:AR-15 CMMG RipStock buttstock
+		Tier:1   		count:1  	item:VOG-25 Khattabka improvised hand grenade
+
+	Loyalty:1 value:1 name:BNTI Module-3M body armor
+		Tier:1   		count:1  	item:CPU fan
+
+	Loyalty:4 value:2 name:AR-15 AWC PSR 5.56x45 muzzle brake
+		Tier:1   		count:2  	item:Phase control relay
+
+	Loyalty:3 value:7 name:Kel-Tec RFB 7.62x51 rifle
+		Tier:1   		count:7  	item:Apollo Soyuz cigarettes
+
+	Loyalty:3 value:1 name:SIG Sauer Taper-LOK 7.62x51/.300 BLK muzzle adapter
+		Tier:1   		count:1  	item:Pack of screws
+
+	Loyalty:3 value:1 name:MCX flip-up front sight
+		Tier:1   		count:1  	item:CAT hemostatic tourniquet
+
+	Loyalty:4 value:2 name:AR-15 Soyuz-TM 15 inch M-LOK handguard
+		Tier:1   		count:2  	item:Apollo Soyuz cigarettes
+
+	Loyalty:3 value:2 name:STM-9 9x19 14 inch barrel
+		Tier:1   		count:2  	item:"Zarya" stun grenade
+
+	Loyalty:3 value:1 name:CMMG buffer tube
+		Tier:1   		count:1  	item:Medical tools
+
+	Loyalty:3 value:1 name:KRISS Vector 9x19 5 inch barrel
+		Tier:1   		count:1  	item:Malboro Cigarettes
+
+	Loyalty:4 value:2 name:AR-15 F1 Firearms Skeletonized Style 2 pistol grip
+		Tier:1   		count:2  	item:AA Battery
+
+	Loyalty:3 value:3 name:MCX .300 BLK 229mm barrel
+		Tier:2   		count:1  	item:Pack of chlorine
+		Tier:1   		count:1  	item:Piece of plexiglass
+
+	Loyalty:3 value:1 name:SIG Sauer Micro Brake 7.62x51 muzzle brake
+		Tier:1   		count:1  	item:Army crackers
+
+	Loyalty:3 value:1 name:STM-9 9x19 10.5 inch barrel
+		Tier:1   		count:1  	item:Pack of Russian Army pineapple juice
+
+	Loyalty:4 value:4 name:AWC PSR .338 LM muzzle brake
+		Tier:3   		count:1  	item:CMS surgical kit
+		Tier:1   		count:1  	item:Slickers chocolate bar
+
+	Loyalty:3 value:2 name:KRISS Vector .45 ACP 5 inch barrel
+		Tier:1   		count:2  	item:Printer paper
+
+	Loyalty:3 value:2 name:MCX .300 BLK 171mm barrel
+		Tier:1   		count:2  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:3 value:7 name:SIG Sauer SRD762-QD 7.62x51 sound suppressor
+		Tier:2   		count:3  	item:GSSh-01 active headset
+		Tier:1   		count:1  	item:Power supply unit
+
+	Loyalty:3 value:7 name:SIG Sauer SRD762-QD 7.62x51 sound suppressor
+		Tier:5   		count:1  	item:SAS drive
+		Tier:1   		count:2  	item:Can of green peas
+
+	Loyalty:3 value:1 name:AR-15 FAB Defense GL-CORE buttstock
+		Tier:1   		count:1  	item:Rye croutons
+
+	Loyalty:4 value:2 name:AK Custom Arms AGS-74 PRO + Sniper Kit pistol grip
+		Tier:1   		count:2  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:3 value:1 name:AK CSS knurled charging handle
+		Tier:1   		count:1  	item:Pack of nails
+
+	Loyalty:3 value:4 name:SIG Sauer ROMEO8T reflex sight
+		Tier:3   		count:1  	item:Salty Dog beef sausage
+		Tier:1   		count:1  	item:Hunting matches
+
+	Loyalty:3 value:3 name:AR-15 Tactical Dynamics Skeletonized pistol grip
+		Tier:2   		count:1  	item:Nippers
+		Tier:1   		count:1  	item:Slickers chocolate bar
+
+	Loyalty:3 value:3 name:AR-15 Tactical Dynamics Skeletonized pistol grip
+		Tier:2   		count:1  	item:UZRGM grenade fuze
+		Tier:1   		count:1  	item:Repellent
+
+	Loyalty:3 value:1 name:KRISS Vector Gen.2 folding stock
+		Tier:1   		count:1  	item:Capacitors
+
+	Loyalty:3 value:1 name:MCX pistol grip
+		Tier:1   		count:1  	item:Capacitors
+
+	Loyalty:3 value:1 name:AR-15 F1 Firearms Skeletonized Style 1 pistol grip
+		Tier:1   		count:1  	item:CALOK-B hemostatic applicator
+
+	Loyalty:3 value:1 name:RFB scope rail mount
+		Tier:1   		count:1  	item:Smoked Chimney drain cleaner
+
+	Loyalty:3 value:2 name:KRISS Vector .45 ACP 6 inch barrel
+		Tier:1   		count:2  	item:Printer paper
+
+	Loyalty:3 value:2 name:MCX GEN1 KeyMod 12 inch handguard
+		Tier:1   		count:2  	item:Capacitors
+
+	Loyalty:2 value:5 name:Soyuz-TM STM-9 Gen.2 9x19 carbine
+		Tier:3   		count:1  	item:Gas analyzer
+		Tier:1   		count:2  	item:Pack of Vita juice
+
+	Loyalty:4 value:16 name:CMMG Mk47 Mutant 7.62x39 assault rifle
+		Tier:3   		count:5  	item:Dry fuel
+		Tier:1   		count:1  	item:VOG-25 Khattabka improvised hand grenade
+
+	Loyalty:4 value:1 name:Mk47 ambidextrous charging handle
+		Tier:1   		count:1  	item:Bottle of saline solution
+
+	Loyalty:1 value:1 name:PSh-97 DJETA riot helmet
+		Tier:1   		count:1  	item:Medical bloodset
+
+	Loyalty:4 value:7 name:AK Hexagon DTKP MK.2 7.62x39 sound suppressor
+		Tier:3   		count:2  	item:Shustrilo sealing foam
+		Tier:1   		count:1  	item:M67 hand grenade
+
+	Loyalty:3 value:4 name:VPO-101 "Vepr-Hunter" Rotor 43 7.62x51 muzzle brake-compensator
+		Tier:3   		count:1  	item:Dry fuel
+		Tier:1   		count:1  	item:Soap
+
+	Loyalty:3 value:4 name:VPO-101 "Vepr-Hunter" Rotor 43 7.62x51 muzzle brake-compensator
+		Tier:3   		count:1  	item:Emergency Water Ration
+		Tier:1   		count:1  	item:RDG-2B smoke grenade
+
+	Loyalty:3 value:11 name:SIG MCX Multi Cal. assault rifle
+		Tier:5   		count:2  	item:Hand drill
+		Tier:1   		count:1  	item:Disposable syringe
+
+	Loyalty:3 value:1 name:MCX GEN1 KeyMod 8 inch handguard
+		Tier:1   		count:1  	item:Clin window cleaner
+
+	Loyalty:3 value:1 name:MPX/MCX lightweight stock
+		Tier:1   		count:1  	item:Pack of Vita juice
+
+	Loyalty:2 value:2 name:MP-153 12ga semi-automatic shotgun
+		Tier:1   		count:2  	item:Pack of Russian Army pineapple juice
+
+	Loyalty:2 value:2 name:MP-153 12ga semi-automatic shotgun
+		Tier:1   		count:2  	item:Alkaline cleaner for heat exchangers
+
+	Loyalty:3 value:2 name:AR-15 Soyuz-TM 12 inch M-LOK handguard
+		Tier:1   		count:2  	item:Bundle of wires
+
+	Loyalty:3 value:1 name:STM-9 9x19 12 inch barrel
+		Tier:1   		count:1  	item:Can of Ice Green tea
+
+	Loyalty:3 value:3 name:OPSMEN Earmor M32 headset
+		Tier:2   		count:1  	item:RAM
+		Tier:1   		count:1  	item:Can of Ice Green tea
+
+	Loyalty:4 value:2 name:AR-15 Aeroknox Orion pistol grip
+		Tier:1   		count:2  	item:Malboro Cigarettes
+
+	Loyalty:2 value:1 name:AK AKdemia Dominator handguard
+		Tier:1   		count:1  	item:M67 hand grenade
+
+	Loyalty:3 value:1 name:AK TangoDown Battle Grip pistol grip
+		Tier:1   		count:1  	item:Medical bloodset
+
+	Loyalty:3 value:10 name:SAG AK-545 Short 5.45x39 carbine
+		Tier:1   		count:10 	item:Hunting matches
+
+	Loyalty:2 value:1 name:AR-15 RTM ATP buffer tube
+		Tier:1   		count:1  	item:Emelya rye croutons
+
+	Loyalty:3 value:1 name:AK CNC Guns OV GP handguard
+		Tier:1   		count:1  	item:Toothpaste
+
+	Loyalty:3 value:4 name:SwampFox Trihawk Prism Scope 3x30
+		Tier:3   		count:1  	item:Dry fuel
+		Tier:1   		count:1  	item:RGD-5 hand grenade
+
+	Loyalty:4 value:1 name:Harris HBR Bipod
+		Tier:1   		count:1  	item:Soap
+
+	Loyalty:4 value:5 name:AR-15 Hanson Carbine 5.56x45 16 inch barrel
+		Tier:3   		count:1  	item:Emergency Water Ration
+		Tier:1   		count:2  	item:T-Shaped plug
+
+	Loyalty:4 value:11 name:AR-15 Griffin Armament M4SD-K 5.56x45 sound suppressor
+		Tier:1   		count:11 	item:Analgin painkillers
+
+	Loyalty:1 value:1 name:PM Tactic Kit pistol grip
+		Tier:1   		count:1  	item:M18 smoke grenade (Green)
+
+	Loyalty:3 value:9 name:SAG AK-545 5.45x39 carbine
+		Tier:2   		count:4  	item:Ultraviolet lamp
+		Tier:1   		count:1  	item:Bundle of wires
+
+	Loyalty:2 value:7 name:SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor
+		Tier:5   		count:1  	item:Paracord
+		Tier:1   		count:2  	item:Slickers chocolate bar
+
+	Loyalty:2 value:7 name:SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor
+		Tier:1   		count:7  	item:Fleece fabric
+
+	Loyalty:2 value:5 name:Kel-Tec RFB 7.62x51 rifle
+		Tier:3   		count:1  	item:Emergency Water Ration
+		Tier:1   		count:2  	item:Ox bleach
+
+	Loyalty:2 value:5 name:Kel-Tec RFB 7.62x51 rifle
+		Tier:3   		count:1  	item:Bottle of OLOLO Multivitamins
+		Tier:1   		count:2  	item:Chainlet
+
+	Loyalty:3 value:2 name:AR-15 Aeroknox Butterfly 5.56x45 muzzle brake
+		Tier:1   		count:2  	item:Pack of Grand juice
+
+	Loyalty:3 value:2 name:RTM Osovets P-2 tactical foregrip (Khaki)
+		Tier:1   		count:2  	item:Esmarch tourniquet
+
+	Loyalty:4 value:2 name:AK Vector VR-05T 7.62x39 muzzle brake
+		Tier:1   		count:2  	item:Schaman shampoo
+
+	Loyalty:2 value:2 name:AR500 Legacy Plate ballistic plate
+		Tier:1   		count:2  	item:Malboro Cigarettes
+
+	Loyalty:3 value:1 name:AR-15 Ballistic Advantage Lo-Pro Gas Block
+		Tier:1   		count:1  	item:Rye croutons
+
+	Loyalty:2 value:1 name:AK FAB Defense AGR-47 pistol grip
+		Tier:1   		count:1  	item:Repellent
+
+	Loyalty:1 value:1 name:AR-15 ADAR 2-15 wooden stock
+		Tier:1   		count:1  	item:M67 hand grenade
+
+	Loyalty:1 value:1 name:AKS-74U Legal Arsenal Piligrim railed dust cover
+		Tier:1   		count:1  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:2 value:1 name:Daniel Defense 25mm accessory ring mount
+		Tier:1   		count:1  	item:Bundle of wires
+
+	Loyalty:3 value:3 name:AR-15 Hanson Carbine 5.56x45 13.7 inch barrel
+		Tier:2   		count:1  	item:RGN hand grenade
+		Tier:1   		count:1  	item:RDG-2B smoke grenade
+
+	Loyalty:4 value:5 name:AR-15 Aeroknox AX-15 5.56x45 upper receiver
+		Tier:3   		count:1  	item:Morphine injector
+		Tier:1   		count:2  	item:M18 smoke grenade (Green)
+
+	Loyalty:4 value:1 name:AK Custom Arms ST-EF 74 skeleton stock extension
+		Tier:1   		count:1  	item:USB Adapter
+
+	Loyalty:3 value:2 name:Global Armor’s Steel ballistic plate
+		Tier:1   		count:2  	item:Strike Cigarettes
+
+	Loyalty:2 value:1 name:SR-2M Zenit B-17 mount
+		Tier:1   		count:1  	item:Smoked Chimney drain cleaner
+
+	Loyalty:2 value:2 name:AR-15 AB Arms MOD1 handguard
+		Tier:1   		count:2  	item:Repellent
+
+	Loyalty:3 value:3 name:Glock 19X 9x19 pistol
+		Tier:2   		count:1  	item:Can of sprats
+		Tier:1   		count:1  	item:VOG-17 Khattabka improvised hand grenade
+
+	Loyalty:3 value:1 name:SAG AK dovetail sidemount
+		Tier:1   		count:1  	item:Pile of meds
+
+	Loyalty:3 value:2 name:RTM Osovets P-2 tactical foregrip
+		Tier:1   		count:2  	item:Pile of meds
+
+	Loyalty:2 value:1 name:RTM Pillau tactical foregrip (Sand)
+		Tier:1   		count:1  	item:Schaman shampoo
+
+	Loyalty:3 value:2 name:SKS FAB Defense UAS buttstock
+		Tier:1   		count:2  	item:Piece of plexiglass
+
+	Loyalty:3 value:1 name:AK TangoDown Battle Grip pistol grip (FDE)
+		Tier:1   		count:1  	item:Damaged hard drive
+
+	Loyalty:2 value:1 name:Olight Baldr Pro tactical flashlight with laser
+		Tier:1   		count:1  	item:Metal spare parts
+
+	Loyalty:3 value:1 name:Olight Baldr Pro tactical flashlight with laser (Tan)
+		Tier:1   		count:1  	item:Analgin painkillers
+
+	Loyalty:3 value:9 name:Metal fuel tank
+		Tier:7   		count:1  	item:L1 (Norepinephrine) injector
+		Tier:1   		count:2  	item:Damaged hard drive
+
+	Loyalty:3 value:9 name:Metal fuel tank
+		Tier:5   		count:1  	item:Zagustin hemostatic drug injector
+		Tier:3   		count:1  	item:#FireKlean gun lube
+		Tier:1   		count:1  	item:Alkaline cleaner for heat exchangers
+
+	Loyalty:2 value:1 name:AKS-74U Alfa Arms Goliaf M-LOK handguard
+		Tier:1   		count:1  	item:USB Adapter
+
+	Loyalty:4 value:4 name:MAWL-C1+ tactical device
+		Tier:3   		count:1  	item:IFAK individual first aid kit
+		Tier:1   		count:1  	item:Printer paper
+
+	Loyalty:4 value:4 name:PK Zenit B-50 handguard
+		Tier:3   		count:1  	item:BakeEzy cook book
+		Tier:1   		count:1  	item:Pack of Grand juice
+
+	Loyalty:4 value:1 name:PK Zenit DTK-1P 7.62x54R muzzle brake
+		Tier:1   		count:1  	item:Army bandage
+
+	Loyalty:1 value:1 name:AR-15 ADAR 2-15 5.56x45 upper receiver
+		Tier:1   		count:1  	item:Piece of plexiglass
+
+	Loyalty:3 value:11 name:SIG MCX Multi Cal. assault rifle
+		Tier:10  		count:1  	item:Gunpowder "Hawk"
+		Tier:1   		count:1  	item:Pack of Russian Army pineapple juice
+
+	Loyalty:3 value:1 name:MCX GEN1 .300 BLK upper receiver
+		Tier:1   		count:1  	item:Aseptic bandage
+
+	Loyalty:3 value:3 name:Kiba Arms Titan ballistic plate
+		Tier:2   		count:1  	item:WD-40 (400ml)
+		Tier:1   		count:1  	item:Medical bloodset
+
+	Loyalty:3 value:3 name:Kiba Arms Titan ballistic plate
+		Tier:2   		count:1  	item:Printed circuit board
+		Tier:1   		count:1  	item:Power supply unit
+
+	Loyalty:3 value:3 name:SPRTN Omega ballistic plate
+		Tier:2   		count:1  	item:Wilston cigarettes
+		Tier:1   		count:1  	item:Tech manual
+
+	Loyalty:2 value:3 name:Zenit Klesch-2IKS IR illuminator with laser
+		Tier:2   		count:1  	item:Bottle of hydrogen peroxide
+		Tier:1   		count:1  	item:M18 smoke grenade (Green)
+
+	Loyalty:2 value:1 name:SAG Bit low profile dovetail sidemount
+		Tier:1   		count:1  	item:Clin window cleaner
+
+	Loyalty:3 value:8 name:AWC Thor PSR XL multi-caliber sound suppressor
+		Tier:2   		count:4  	item:RAM
+
+	Loyalty:1 value:2 name:Saiga-9 Hartman Gyurza handguard
+		Tier:1   		count:2  	item:Can of Ice Green tea
+
+	Loyalty:3 value:1 name:AR-15 Griffin Armament Gate-LOK Hammer 5.56x45 flash hider
+		Tier:1   		count:1  	item:Ox bleach
+
+	Loyalty:3 value:3 name:AK Alfa Arms ASPID handguard
+		Tier:2   		count:1  	item:RGO hand grenade
+		Tier:1   		count:1  	item:Chainlet
+
+	Loyalty:2 value:1 name:AK Mission First Tactical ENGAGE AK47 pistol grip
+		Tier:1   		count:1  	item:Ox bleach
+
+	Loyalty:4 value:4 name:PK Zenit PT-2 "Klassika" stock
+		Tier:3   		count:1  	item:Working LCD
+		Tier:1   		count:1  	item:WD-40 (100ml)
+
+	Loyalty:3 value:1 name:AR-15 Aeroknox AX-15 4 inch M-LOK handguard
+		Tier:1   		count:1  	item:Pack of nails
+
+	Loyalty:4 value:7 name:AR-15 Aeroknox AX-15 15.8 inch M-LOK handguard
+		Tier:5   		count:1  	item:Peltor Tactical Sport headset
+		Tier:1   		count:2  	item:Pack of Russian Army pineapple juice
+
+	Loyalty:1 value:1 name:PM FAB Defense PM-G pistol grip (Olive Drab)
+		Tier:1   		count:1  	item:Soap
+
+	Loyalty:1 value:1 name:PM FAB Defense PM-G pistol grip
+		Tier:1   		count:1  	item:WD-40 (100ml)
+
+	Loyalty:3 value:1 name:AK PUFGUN SG-M2 pistol grip
+		Tier:1   		count:1  	item:Army bandage
+
+	Loyalty:4 value:12 name:Cult Locust ballistic plate
+		Tier:5   		count:2  	item:3-(b-TG) stimulant injector
+		Tier:1   		count:2  	item:Power supply unit
+
+	Loyalty:4 value:12 name:Cult Locust ballistic plate
+		Tier:1   		count:12 	item:Aluminum splint
+
+	Loyalty:1 value:5 name:Burris FullField TAC30 1-4x24 30mm riflescope
+		Tier:3   		count:1  	item:Analog thermometer
+		Tier:1   		count:2  	item:Wrench
+
+	Loyalty:1 value:11 name:Vortex Razor HD Gen.2 1-6x24 30mm riflescope
+		Tier:2   		count:5  	item:Flat screwdriver
+		Tier:1   		count:1  	item:D Size battery
+
+	Loyalty:1 value:7 name:EOTech Vudu 1-6x24 30mm riflescope
+		Tier:2   		count:3  	item:Can of humpback salmon
+		Tier:1   		count:1  	item:Schaman shampoo
+
+	Loyalty:1 value:2 name:Skier's Custom VPO-209
+		Tier:1   		count:2  	item:Immobilizing splint

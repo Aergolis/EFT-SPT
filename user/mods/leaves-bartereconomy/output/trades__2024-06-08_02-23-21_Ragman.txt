@@ -1,0 +1,635 @@
+[Updating Trader:Ragman]
+-------------------------------------------
+
+	Loyalty:3 value:6 name:Peltor ComTac 2 headset (OD Green)
+		Tier:2   		count:3  	item:Can of Hot Rod energy drink
+
+	Loyalty:4 value:6 name:ANA Tactical Alpha chest rig (Olive Drab)
+		Tier:2   		count:3  	item:Electronic components
+
+	Loyalty:2 value:1 name:FORT Kiver-M bulletproof helmet
+		Tier:1   		count:1  	item:Repellent
+
+	Loyalty:4 value:2 name:Crye Precision AVS plate carrier (Ranger Green)
+		Tier:1   		count:2  	item:Ortodontox toothpaste
+
+	Loyalty:2 value:3 name:Flyye MBSS backpack (UCP)
+		Tier:2   		count:1  	item:Can of Hot Rod energy drink
+		Tier:1   		count:1  	item:Screw nuts
+
+	Loyalty:4 value:6 name:BlackRock chest rig (Gray)
+		Tier:2   		count:3  	item:SurvL Survivor Lighter
+
+	Loyalty:2 value:2 name:ZSh-1-2M helmet (Black cover)
+		Tier:1   		count:2  	item:Aluminum splint
+
+	Loyalty:2 value:2 name:WARTECH TV-109 + TV-106 chest rig (A-TACS FG)
+		Tier:1   		count:2  	item:Army crackers
+
+	Loyalty:2 value:3 name:UMTBS 6Sh112 Scout-Sniper chest rig (Digital Flora)
+		Tier:2   		count:1  	item:Tube of Poxeram cold welding
+		Tier:1   		count:1  	item:DVD drive
+
+	Loyalty:2 value:5 name:Altyn bulletproof helmet (Olive Drab)
+		Tier:3   		count:1  	item:Shustrilo sealing foam
+		Tier:1   		count:2  	item:Can of white salt
+
+	Loyalty:2 value:5 name:Altyn bulletproof helmet (Olive Drab)
+		Tier:3   		count:1  	item:Toolset
+		Tier:1   		count:2  	item:Crickent lighter
+
+	Loyalty:3 value:8 name:Camelbak Tri-Zip assault backpack (Foliage)
+		Tier:1   		count:8  	item:Ortodontox toothpaste
+
+	Loyalty:4 value:11 name:SSO Attack 2 raid backpack (Khaki)
+		Tier:3   		count:3  	item:Morphine injector
+		Tier:1   		count:2  	item:Rye croutons
+
+	Loyalty:4 value:11 name:SSO Attack 2 raid backpack (Khaki)
+		Tier:10  		count:1  	item:Bottle of Tarkovskaya vodka
+		Tier:1   		count:1  	item:CPU fan
+
+	Loyalty:1 value:1 name:6B47 Ratnik-BSh helmet (Digital Flora cover)
+		Tier:1   		count:1  	item:AA Battery
+
+	Loyalty:1 value:1 name:6B47 Ratnik-BSh helmet (Digital Flora cover)
+		Tier:1   		count:1  	item:Toilet paper
+
+	Loyalty:1 value:1 name:PACA Soft Armor
+		Tier:1   		count:1  	item:Rye croutons
+
+	Loyalty:2 value:4 name:ZSh-1-2M helmet (Olive Drab)
+		Tier:3   		count:1  	item:Pack of sugar
+		Tier:1   		count:1  	item:M18 smoke grenade (Green)
+
+	Loyalty:3 value:1 name:Shemagh (Green)
+		Tier:1   		count:1  	item:Strike Cigarettes
+
+	Loyalty:1 value:1 name:Tactical sling bag (Khaki)
+		Tier:1   		count:1  	item:Immobilizing splint
+
+	Loyalty:2 value:1 name:LShZ lightweight helmet (Olive Drab)
+		Tier:1   		count:1  	item:D Size battery
+
+	Loyalty:3 value:1 name:Momex balaclava
+		Tier:1   		count:1  	item:Esmarch tourniquet
+
+	Loyalty:3 value:4 name:BlackHawk! Commando chest harness (Desert Tan)
+		Tier:3   		count:1  	item:Bottle of "Norvinskiy Yadreniy" premium kvass (0.6L)
+		Tier:1   		count:1  	item:Metal spare parts
+
+	Loyalty:4 value:4 name:IOTV Gen4 body armor (Assault Kit, MultiCam)
+		Tier:3   		count:1  	item:Emergency Water Ration
+		Tier:1   		count:1  	item:RDG-2B smoke grenade
+
+	Loyalty:1 value:1 name:MF-UNTAR body armor
+		Tier:1   		count:1  	item:Ortodontox toothpaste
+
+	Loyalty:1 value:1 name:MF-UNTAR body armor
+		Tier:1   		count:1  	item:Can of Ice Green tea
+
+	Loyalty:4 value:203 name:Crash Axe
+		Tier:15  		count:13 	item:Bronze lion figurine
+		Tier:10  		count:5  	item:Cat figurine
+		Tier:2   		count:1  	item:Printed circuit board
+		Tier:1   		count:1  	item:Tech manual
+
+	Loyalty:4 value:203 name:Crash Axe
+		Tier:5   		count:40 	item:Electric motor
+		Tier:15  		count:9  	item:Bronze lion figurine
+		Tier:1   		count:8  	item:Capacitors
+
+	Loyalty:2 value:3 name:ZSh-1-2M face shield
+		Tier:2   		count:1  	item:Can of Max Energy energy drink
+		Tier:1   		count:1  	item:Toothpaste
+
+	Loyalty:3 value:3 name:Kinda cowboy hat
+		Tier:2   		count:1  	item:Ripstop fabric
+		Tier:1   		count:1  	item:Fleece fabric
+
+	Loyalty:3 value:3 name:Kinda cowboy hat
+		Tier:2   		count:1  	item:Vaseline balm
+		Tier:1   		count:1  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:4 value:19 name:Mystery Ranch Blackjack 50 backpack (MultiCam)
+		Tier:7   		count:2  	item:Canister with purified water
+		Tier:3   		count:1  	item:BakeEzy cook book
+		Tier:1   		count:2  	item:CALOK-B hemostatic applicator
+
+	Loyalty:4 value:19 name:Mystery Ranch Blackjack 50 backpack (MultiCam)
+		Tier:5   		count:3  	item:Adrenaline injector
+		Tier:3   		count:1  	item:Can of RatCola soda
+		Tier:1   		count:1  	item:CAT hemostatic tourniquet
+
+	Loyalty:2 value:1 name:Shemagh (Tan)
+		Tier:1   		count:1  	item:Ox bleach
+
+	Loyalty:3 value:2 name:WARTECH TV-110 plate carrier (Coyote)
+		Tier:1   		count:2  	item:"Zarya" stun grenade
+
+	Loyalty:2 value:1 name:Cold Fear infrared balaclava
+		Tier:1   		count:1  	item:Printer paper
+
+	Loyalty:1 value:6 name:Altyn helmet face shield
+		Tier:5   		count:1  	item:Ops-Core FAST RAC Headset
+		Tier:1   		count:1  	item:Slickers chocolate bar
+
+	Loyalty:4 value:6 name:Vulkan-5 LShZ-5 bulletproof helmet (Black)
+		Tier:3   		count:2  	item:Diary
+
+	Loyalty:4 value:6 name:Vulkan-5 LShZ-5 bulletproof helmet (Black)
+		Tier:1   		count:6  	item:CALOK-B hemostatic applicator
+
+	Loyalty:1 value:19 name:Altyn helmet face shield
+		Tier:2   		count:9  	item:SurvL Survivor Lighter
+		Tier:1   		count:1  	item:Apollo Soyuz cigarettes
+
+	Loyalty:1 value:19 name:Altyn helmet face shield
+		Tier:5   		count:3  	item:Topographic survey maps
+		Tier:3   		count:1  	item:Flat screwdriver (Long)
+		Tier:1   		count:1  	item:Pliers
+
+	Loyalty:1 value:1 name:Balaclava
+		Tier:1   		count:1  	item:Model 7290 Flash Bang grenade
+
+	Loyalty:2 value:1 name:ANA Tactical M2 plate carrier (Digital Flora)
+		Tier:1   		count:1  	item:Medical tools
+
+	Loyalty:3 value:9 name:ANA Tactical Beta 2 Battle backpack (Olive Drab)
+		Tier:5   		count:1  	item:Hand drill
+		Tier:3   		count:1  	item:Walker's Razor Digital headset
+		Tier:1   		count:1  	item:Power supply unit
+
+	Loyalty:2 value:5 name:MSA Sordin Supreme PRO-X/L headset
+		Tier:3   		count:1  	item:Awl
+		Tier:1   		count:2  	item:Alkaline cleaner for heat exchangers
+
+	Loyalty:4 value:1 name:Deadly Skull mask
+		Tier:1   		count:1  	item:Capacitors
+
+	Loyalty:1 value:1 name:Kolpak-1S face shield
+		Tier:1   		count:1  	item:Screwdriver
+
+	Loyalty:1 value:3 name:ZSh-1-2M face shield
+		Tier:2   		count:1  	item:Pack of chlorine
+		Tier:1   		count:1  	item:Hunting matches
+
+	Loyalty:1 value:3 name:ZSh-1-2M face shield
+		Tier:2   		count:1  	item:Ripstop fabric
+		Tier:1   		count:1  	item:Ox bleach
+
+	Loyalty:1 value:1 name:UNTAR helmet
+		Tier:1   		count:1  	item:Insulating tape
+
+	Loyalty:1 value:1 name:UNTAR helmet
+		Tier:1   		count:1  	item:Slickers chocolate bar
+
+	Loyalty:3 value:8 name:Vulkan-5 helmet face shield
+		Tier:1   		count:8  	item:Pliers
+
+	Loyalty:3 value:8 name:Vulkan-5 helmet face shield
+		Tier:3   		count:2  	item:Can of Majaica coffee beans
+		Tier:1   		count:2  	item:Phase control relay
+
+	Loyalty:1 value:1 name:Shattered lightweight armored mask
+		Tier:1   		count:1  	item:Pack of Vita juice
+
+	Loyalty:2 value:3 name:WARTECH Berkut BB-102 backpack (A-TACS FG)
+		Tier:2   		count:1  	item:Pack of chlorine
+		Tier:1   		count:1  	item:Light bulb
+
+	Loyalty:4 value:5 name:FORT Redut-T5 body armor (Smog)
+		Tier:3   		count:1  	item:CMS surgical kit
+		Tier:1   		count:2  	item:Esmarch tourniquet
+
+	Loyalty:4 value:5 name:FORT Redut-T5 body armor (Smog)
+		Tier:3   		count:1  	item:Ibuprofen painkillers
+		Tier:1   		count:2  	item:Can of white salt
+
+	Loyalty:2 value:4 name:Peltor ComTac 2 headset (OD Green)
+		Tier:3   		count:1  	item:Walker's Razor Digital headset
+		Tier:1   		count:1  	item:Wrench
+
+	Loyalty:2 value:4 name:Peltor ComTac 2 headset (OD Green)
+		Tier:3   		count:1  	item:Military corrugated tube
+		Tier:1   		count:1  	item:Bottle of water (0.6L)
+
+	Loyalty:4 value:2 name:HighCom Striker ACHHC IIIA helmet (Olive Drab)
+		Tier:1   		count:2  	item:Phase control relay
+
+	Loyalty:1 value:5 name:Peltor Tactical Sport headset
+		Tier:3   		count:1  	item:Morphine injector
+		Tier:1   		count:2  	item:Toilet paper
+
+	Loyalty:1 value:1 name:SSh-68 steel helmet (Olive Drab)
+		Tier:1   		count:1  	item:Soap
+
+	Loyalty:1 value:5 name:Poyas-A + Poyas-B gear rig
+		Tier:3   		count:1  	item:Metal cutting scissors
+		Tier:1   		count:2  	item:Zibbo lighter
+
+	Loyalty:1 value:5 name:Poyas-A + Poyas-B gear rig
+		Tier:3   		count:1  	item:Metal cutting scissors
+		Tier:1   		count:2  	item:Duct tape
+
+	Loyalty:2 value:7 name:Oakley Mechanism heavy duty backpack (Black)
+		Tier:1   		count:7  	item:VOG-25 Khattabka improvised hand grenade
+
+	Loyalty:2 value:3 name:Kiver-M face shield
+		Tier:2   		count:1  	item:Pack of chlorine
+		Tier:1   		count:1  	item:Classic matches
+
+	Loyalty:4 value:4 name:IOTV Gen4 body armor (High Mobility Kit, MultiCam)
+		Tier:3   		count:1  	item:Electric drill
+		Tier:1   		count:1  	item:CPU fan
+
+	Loyalty:4 value:4 name:IOTV Gen4 body armor (High Mobility Kit, MultiCam)
+		Tier:3   		count:1  	item:MRE ration pack
+		Tier:1   		count:1  	item:AA Battery
+
+	Loyalty:2 value:1 name:Tactical fleece beanie (Tan)
+		Tier:1   		count:1  	item:M18 smoke grenade (Green)
+
+	Loyalty:4 value:1 name:6B13 assault armor (Flora)
+		Tier:1   		count:1  	item:Pliers
+
+	Loyalty:4 value:2 name:HighCom Striker ACHHC IIIA helmet (Black)
+		Tier:1   		count:2  	item:WD-40 (100ml)
+
+	Loyalty:1 value:6 name:Altyn helmet face shield
+		Tier:1   		count:6  	item:Clin window cleaner
+
+	Loyalty:1 value:6 name:Altyn helmet face shield
+		Tier:1   		count:6  	item:Screw nuts
+
+	Loyalty:4 value:6 name:ANA Tactical Alpha chest rig (Olive Drab)
+		Tier:1   		count:6  	item:Schaman shampoo
+
+	Loyalty:4 value:6 name:ANA Tactical Alpha chest rig (Olive Drab)
+		Tier:1   		count:6  	item:AA Battery
+
+	Loyalty:3 value:3 name:HighCom Striker ULACH IIIA helmet (Desert Tan)
+		Tier:2   		count:1  	item:Can of TarCola soda
+		Tier:1   		count:1  	item:Schaman shampoo
+
+	Loyalty:1 value:1 name:BNTI Kirasa-N body armor
+		Tier:1   		count:1  	item:Classic matches
+
+	Loyalty:1 value:1 name:PACA Soft Armor
+		Tier:1   		count:1  	item:Malboro Cigarettes
+
+	Loyalty:1 value:1 name:PACA Soft Armor
+		Tier:1   		count:1  	item:Chainlet
+
+	Loyalty:4 value:1 name:Ghost balaclava
+		Tier:1   		count:1  	item:Immobilizing splint
+
+	Loyalty:3 value:6 name:WARTECH MK3 TV-104 chest rig (MultiCam)
+		Tier:1   		count:6  	item:VOG-25 Khattabka improvised hand grenade
+
+	Loyalty:1 value:3 name:GSSh-01 active headset
+		Tier:2   		count:1  	item:Can of pacific saury
+		Tier:1   		count:1  	item:Bottle of saline solution
+
+	Loyalty:1 value:3 name:GSSh-01 active headset
+		Tier:2   		count:1  	item:Can of pacific saury
+		Tier:1   		count:1  	item:Pack of Vita juice
+
+	Loyalty:1 value:2 name:Ops-Core FAST Visor
+		Tier:1   		count:2  	item:F-1 hand grenade
+
+	Loyalty:2 value:1 name:Pyramex Proximity safety glasses
+		Tier:1   		count:1  	item:Screw nuts
+
+	Loyalty:3 value:4 name:Gruppa 99 T20 backpack (Umber Brown)
+		Tier:3   		count:1  	item:Broken GPhone X smartphone
+		Tier:1   		count:1  	item:Screwdriver
+
+	Loyalty:2 value:2 name:BNTI LShZ-2DTM helmet (Black)
+		Tier:1   		count:2  	item:Schaman shampoo
+
+	Loyalty:3 value:1 name:Oakley SI Gascan glasses
+		Tier:1   		count:1  	item:Hunting matches
+
+	Loyalty:3 value:4 name:LShZ-2DTM face shield
+		Tier:3   		count:1  	item:Round pliers
+		Tier:1   		count:1  	item:Army bandage
+
+	Loyalty:3 value:4 name:LShZ-2DTM face shield
+		Tier:3   		count:1  	item:Can of RatCola soda
+		Tier:1   		count:1  	item:Clin window cleaner
+
+	Loyalty:4 value:1 name:Oakley SI M Frame safety glasses
+		Tier:1   		count:1  	item:Pack of screws
+
+	Loyalty:2 value:2 name:Wilcox Skull Lock head mount
+		Tier:1   		count:2  	item:Construction measuring tape
+
+	Loyalty:2 value:3 name:Hazard 4 Pillbox backpack (Black)
+		Tier:2   		count:1  	item:Jar of DevilDog mayo
+		Tier:1   		count:1  	item:Pliers
+
+	Loyalty:2 value:3 name:Hazard 4 Pillbox backpack (Black)
+		Tier:2   		count:1  	item:Pack of milk
+		Tier:1   		count:1  	item:Can of white salt
+
+	Loyalty:2 value:2 name:6B5-15 Zh-86 Uley armored rig (Flora)
+		Tier:1   		count:2  	item:RDG-2B smoke grenade
+
+	Loyalty:2 value:4 name:LShZ-2DTM aventail
+		Tier:3   		count:1  	item:Toolset
+		Tier:1   		count:1  	item:Bottle of water (0.6L)
+
+	Loyalty:3 value:2 name:Crye Precision AVS plate carrier (Ranger Green)
+		Tier:1   		count:2  	item:Pack of Vita juice
+
+	Loyalty:3 value:2 name:Crye Precision AVS plate carrier (Ranger Green)
+		Tier:1   		count:2  	item:CAT hemostatic tourniquet
+
+	Loyalty:4 value:5 name:Haley Strategic D3CRX Chest Harness (Ranger Green)
+		Tier:3   		count:1  	item:Toolset
+		Tier:1   		count:2  	item:Aseptic bandage
+
+	Loyalty:4 value:1 name:RayBench Aviator glasses
+		Tier:1   		count:1  	item:CAT hemostatic tourniquet
+
+	Loyalty:3 value:4 name:Hazard 4 Takedown sling backpack (Black)
+		Tier:3   		count:1  	item:Can of herring
+		Tier:1   		count:1  	item:Toothpaste
+
+	Loyalty:3 value:9 name:Velocity Systems MPPV Multi-Purpose Patrol Vest (Wolf Grey)
+		Tier:2   		count:4  	item:Can of TarCola soda
+		Tier:1   		count:1  	item:Power supply unit
+
+	Loyalty:3 value:9 name:Velocity Systems MPPV Multi-Purpose Patrol Vest (Wolf Grey)
+		Tier:7   		count:1  	item:Old firesteel
+		Tier:1   		count:2  	item:M18 smoke grenade (Green)
+
+	Loyalty:1 value:1 name:6B3TM-01 armored rig (Khaki)
+		Tier:1   		count:1  	item:Screwdriver
+
+	Loyalty:1 value:1 name:6B3TM-01 armored rig (Khaki)
+		Tier:1   		count:1  	item:CAT hemostatic tourniquet
+
+	Loyalty:2 value:3 name:LBT-1476A 3Day Pack (Woodland)
+		Tier:2   		count:1  	item:Can of Hot Rod energy drink
+		Tier:1   		count:1  	item:Ortodontox toothpaste
+
+	Loyalty:2 value:3 name:LBT-1476A 3Day Pack (Woodland)
+		Tier:2   		count:1  	item:Can of humpback salmon
+		Tier:1   		count:1  	item:Pack of Grand juice
+
+	Loyalty:4 value:12 name:Eberlestock F4 Terminator load bearing backpack (Tiger Stripe)
+		Tier:3   		count:4  	item:Pack of sugar
+
+	Loyalty:3 value:1 name:Crossbow tactical glasses
+		Tier:1   		count:1  	item:RGD-5 hand grenade
+
+	Loyalty:2 value:1 name:Tactical fleece beanie (Tan)
+		Tier:1   		count:1  	item:Construction measuring tape
+
+	Loyalty:2 value:1 name:Tactical fleece beanie (Tan)
+		Tier:1   		count:1  	item:Screw nuts
+
+	Loyalty:1 value:2 name:Spiritus Systems Bank Robber chest rig (MultiCam Black)
+		Tier:1   		count:2  	item:Slickers chocolate bar
+
+	Loyalty:4 value:8 name:Eberlestock G2 Gunslinger II backpack (Dry Earth)
+		Tier:3   		count:2  	item:Pack of sugar
+		Tier:1   		count:2  	item:Alkaline cleaner for heat exchangers
+
+	Loyalty:4 value:2 name:CQC Osprey MK4A plate carrier (Assault, MTP)
+		Tier:1   		count:2  	item:Screwdriver
+
+	Loyalty:4 value:11 name:Tasmanian Tiger Trooper 35 backpack (Khaki)
+		Tier:5   		count:2  	item:Military power filter
+		Tier:1   		count:1  	item:Screwdriver
+
+	Loyalty:4 value:11 name:Tasmanian Tiger Trooper 35 backpack (Khaki)
+		Tier:1   		count:11 	item:Bottle of saline solution
+
+	Loyalty:4 value:4 name:FORT Redut-M body armor
+		Tier:3   		count:1  	item:Morphine injector
+		Tier:1   		count:1  	item:Army crackers
+
+	Loyalty:4 value:4 name:FORT Redut-M body armor
+		Tier:3   		count:1  	item:Sewing kit
+		Tier:1   		count:1  	item:Chainlet
+
+	Loyalty:4 value:2 name:NPP KlASS Bagariy plate carrier (Digital Flora)
+		Tier:1   		count:2  	item:Emelya rye croutons
+
+	Loyalty:4 value:5 name:Gear Craft GC-BSS-MK1 chest rig (A-TACS FG)
+		Tier:3   		count:1  	item:TP-200 TNT brick
+		Tier:1   		count:2  	item:CALOK-B hemostatic applicator
+
+	Loyalty:2 value:1 name:Stich Profi Chimera boonie hat
+		Tier:1   		count:1  	item:T-Shaped plug
+
+	Loyalty:1 value:1 name:NFM THOR Concealable Reinforced Vest body armor
+		Tier:1   		count:1  	item:Medical bloodset
+
+	Loyalty:1 value:1 name:NFM THOR Concealable Reinforced Vest body armor
+		Tier:1   		count:1  	item:Pile of meds
+
+	Loyalty:2 value:7 name:LBT-6094A Slick Plate Carrier (Black)
+		Tier:1   		count:7  	item:Classic matches
+
+	Loyalty:2 value:7 name:LBT-6094A Slick Plate Carrier (Black)
+		Tier:5   		count:1  	item:Deadlyslob's beard oil
+		Tier:1   		count:2  	item:Repellent
+
+	Loyalty:4 value:1 name:Shellback Tactical Banshee plate carrier (A-TACS AU)
+		Tier:1   		count:1  	item:Power supply unit
+
+	Loyalty:4 value:1 name:Shellback Tactical Banshee plate carrier (A-TACS AU)
+		Tier:1   		count:1  	item:PAID AntiRoach spray
+
+	Loyalty:2 value:22 name:Hexatac HPC Plate Carrier (MultiCam Black)
+		Tier:2   		count:11 	item:Spark plug
+
+	Loyalty:2 value:22 name:Hexatac HPC Plate Carrier (MultiCam Black)
+		Tier:15  		count:1  	item:Weapon repair kit
+		Tier:1   		count:7  	item:Slickers chocolate bar
+
+	Loyalty:3 value:1 name:FirstSpear Strandhogg plate carrier (Ranger Green)
+		Tier:1   		count:1  	item:Pack of apple juice
+
+	Loyalty:3 value:1 name:FirstSpear Strandhogg plate carrier (Ranger Green)
+		Tier:1   		count:1  	item:Aluminum splint
+
+	Loyalty:3 value:4 name:Stich Profi Chest Rig MK2 (Assault, A-TACS FG)
+		Tier:3   		count:1  	item:Analog thermometer
+		Tier:1   		count:1  	item:Pliers
+
+	Loyalty:2 value:1 name:Beret (Olive Drab)
+		Tier:1   		count:1  	item:Pack of nails
+
+	Loyalty:4 value:4 name:FORT Defender-2 body armor
+		Tier:3   		count:1  	item:Shustrilo sealing foam
+		Tier:1   		count:1  	item:PAID AntiRoach spray
+
+	Loyalty:4 value:4 name:FORT Defender-2 body armor
+		Tier:3   		count:1  	item:Pack of sugar
+		Tier:1   		count:1  	item:WD-40 (100ml)
+
+	Loyalty:1 value:2 name:CSA chest rig (Black)
+		Tier:1   		count:2  	item:WD-40 (100ml)
+
+	Loyalty:2 value:2 name:HighCom Trooper TFO body armor (MultiCam)
+		Tier:1   		count:2  	item:Zibbo lighter
+
+	Loyalty:2 value:2 name:HighCom Trooper TFO body armor (MultiCam)
+		Tier:1   		count:2  	item:Pile of meds
+
+	Loyalty:1 value:1 name:6B3TM-01 armored rig (Khaki)
+		Tier:1   		count:1  	item:Tech manual
+
+	Loyalty:1 value:1 name:6B3TM-01 armored rig (Khaki)
+		Tier:1   		count:1  	item:Medical bloodset
+
+	Loyalty:3 value:4 name:Gruppa 99 T20 backpack (MultiCam)
+		Tier:3   		count:1  	item:Peltor ComTac 2 headset (OD Green)
+		Tier:1   		count:1  	item:Can of white salt
+
+	Loyalty:4 value:1 name:ECLiPSE RBAV-AF plate carrier (Ranger Green)
+		Tier:1   		count:1  	item:Smoked Chimney drain cleaner
+
+	Loyalty:3 value:1 name:Beret (Black)
+		Tier:1   		count:1  	item:Emelya rye croutons
+
+	Loyalty:3 value:1 name:Interceptor OTV body armor (UCP)
+		Tier:1   		count:1  	item:Ox bleach
+
+	Loyalty:3 value:1 name:Interceptor OTV body armor (UCP)
+		Tier:1   		count:1  	item:Pack of screws
+
+	Loyalty:1 value:7 name:Rys-T face shield
+		Tier:5   		count:1  	item:Golden 1GPhone smartphone
+		Tier:1   		count:2  	item:CPU fan
+
+	Loyalty:1 value:7 name:Rys-T face shield
+		Tier:3   		count:2  	item:Electric drill
+		Tier:1   		count:1  	item:Pack of nails
+
+	Loyalty:3 value:8 name:Gruppa 99 T30 backpack (MultiCam)
+		Tier:1   		count:8  	item:Army crackers
+
+	Loyalty:2 value:4 name:Hazard 4 Takedown sling backpack (MultiCam)
+		Tier:3   		count:1  	item:Broken GPhone X smartphone
+		Tier:1   		count:1  	item:Medical tools
+
+	Loyalty:3 value:15 name:Diamond Age Bastion helmet armor plate
+		Tier:10  		count:1  	item:Antique vase
+		Tier:3   		count:1  	item:Can of herring
+		Tier:1   		count:2  	item:Chainlet
+
+	Loyalty:3 value:15 name:Diamond Age Bastion helmet armor plate
+		Tier:1   		count:15 	item:Fleece fabric
+		Tier:1   		count:1  	item:Immobilizing splint
+
+	Loyalty:2 value:2 name:NPP KlASS Kora-Kulon body armor (Black)
+		Tier:1   		count:2  	item:D Size battery
+
+	Loyalty:2 value:2 name:NPP KlASS Kora-Kulon body armor (Black)
+		Tier:1   		count:2  	item:Aluminum splint
+
+	Loyalty:4 value:2 name:Diamond Age Bastion helmet (Black)
+		Tier:1   		count:2  	item:Bundle of wires
+
+	Loyalty:4 value:7 name:Death Shadow lightweight armored mask
+		Tier:5   		count:1  	item:AFAK tactical individual first aid kit
+		Tier:1   		count:2  	item:Emelya rye croutons
+
+	Loyalty:2 value:2 name:Type 56 Chicom chest harness
+		Tier:1   		count:2  	item:Screw nuts
+
+	Loyalty:3 value:1 name:Zulu Nylon Gear M4 Reduced Signature Chest Rig (Ranger Green)
+		Tier:1   		count:1  	item:AA Battery
+
+	Loyalty:3 value:4 name:Direct Action Dragon Egg Mark II backpack (Black)
+		Tier:3   		count:1  	item:Diary
+		Tier:1   		count:1  	item:Damaged hard drive
+
+	Loyalty:1 value:2 name:Transformer Bag
+		Tier:1   		count:2  	item:Can of white salt
+
+	Loyalty:3 value:1 name:Ghost half-mask
+		Tier:1   		count:1  	item:D Size battery
+
+	Loyalty:3 value:4 name:NPP KlASS Tor-2 helmet face shield
+		Tier:3   		count:1  	item:BakeEzy cook book
+		Tier:1   		count:1  	item:Screw nuts
+
+	Loyalty:3 value:2 name:NPP KlASS Tor-2 helmet (Olive Drab)
+		Tier:1   		count:2  	item:F-1 hand grenade
+
+	Loyalty:1 value:5 name:MSA Sordin Supreme PRO-X/L headset
+		Tier:3   		count:1  	item:Shustrilo sealing foam
+		Tier:1   		count:2  	item:Pack of screws
+
+	Loyalty:1 value:5 name:MSA Sordin Supreme PRO-X/L headset
+		Tier:3   		count:1  	item:Broken GPhone X smartphone
+		Tier:1   		count:2  	item:Crickent lighter
+
+	Loyalty:2 value:7 name:LBT-1961A Load Bearing Chest Rig (MAS Grey)
+		Tier:1   		count:7  	item:Duct tape
+
+	Loyalty:2 value:7 name:LBT-1961A Load Bearing Chest Rig (MAS Grey)
+		Tier:2   		count:3  	item:Bottle of hydrogen peroxide
+		Tier:1   		count:1  	item:Can of green peas
+
+	Loyalty:4 value:2 name:Granit ballistic plate (Side)
+		Tier:1   		count:2  	item:Medical bloodset
+
+	Loyalty:4 value:12 name:Mystery Ranch SATL Bridger Assault Pack (Foliage)
+		Tier:5   		count:2  	item:Peltor Tactical Sport headset
+		Tier:1   		count:2  	item:Zibbo lighter
+
+	Loyalty:1 value:2 name:Soap
+		Tier:1   		count:2  	item:Army bandage
+
+	Loyalty:1 value:2 name:Soap
+		Tier:1   		count:2  	item:Malboro Cigarettes
+
+	Loyalty:4 value:11 name:Granit Br4 ballistic plate
+		Tier:1   		count:11 	item:Malboro Cigarettes
+
+	Loyalty:4 value:11 name:Granit Br4 ballistic plate
+		Tier:10  		count:1  	item:"Obdolbos" cocktail injector
+		Tier:1   		count:1  	item:Immobilizing splint
+
+	Loyalty:2 value:4 name:Tehinkom RK-PT-25 patrol backpack (Digital Flora)
+		Tier:3   		count:1  	item:Emergency Water Ration
+		Tier:1   		count:1  	item:Can of white salt
+
+	Loyalty:2 value:2 name:Diamond Age NeoSteel High Cut helmet (Black)
+		Tier:1   		count:2  	item:Disposable syringe
+
+	Loyalty:3 value:30 name:Tasmanian Tiger SK plate carrier (MultiCam Black)
+		Tier:7   		count:4  	item:Axel parrot figurine
+		Tier:1   		count:2  	item:Screwdriver
+
+	Loyalty:3 value:30 name:Tasmanian Tiger SK plate carrier (MultiCam Black)
+		Tier:20  		count:1  	item:Ophthalmoscope
+		Tier:2   		count:5  	item:Salewa first aid kit
+
+	Loyalty:4 value:11 name:Atomic Defense CQCM ballistic mask (Black)
+		Tier:1   		count:11 	item:Toothpaste
+
+	Loyalty:4 value:4 name:IOTV Gen4 body armor (Assault Kit, MultiCam)
+		Tier:3   		count:1  	item:Morphine injector
+		Tier:1   		count:1  	item:Bolts
+
+	Loyalty:4 value:7 name:NFM THOR Integrated Carrier body armor
+		Tier:1   		count:7  	item:Light bulb
+
+	Loyalty:4 value:7 name:NFM THOR Integrated Carrier body armor
+		Tier:1   		count:7  	item:Can of Ice Green tea
+
+	Loyalty:4 value:12 name:XSAPI Ballistic Plate
+		Tier:10  		count:1  	item:Roler Submariner gold wrist watch
+		Tier:1   		count:2  	item:Malboro Cigarettes
+
+	Loyalty:4 value:8 name:Osprey MK4 Ballistic Plate
+		Tier:2   		count:4  	item:Wilston cigarettes
